@@ -3,6 +3,9 @@ import os, re, json
 folders = [i for i in os.listdir() if os.path.isdir(i) and i.startswith('UD_Turkish-')]
 folders.sort()
 md_pattern = '^# (.+?) = (.+?)$'
+tb_dir = 'treebanks'
+if not os.path.exists(tb_dir):
+    os.mkdir(tb_dir)
 for folder in folders:
     tb_l = []
     conllu_files = [i for i in os.listdir(folder) if i.endswith('.conllu')]
@@ -33,5 +36,5 @@ for folder in folders:
                 d['table'] = table.strip()
             if d:
                 tb_l.append(d)
-    with open(os.path.join(folder, 'treebank.json'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(tb_dir, folder + '.json'), 'w', encoding='utf-8') as f:
         json.dump(tb_l, f, ensure_ascii=False, indent=4)
