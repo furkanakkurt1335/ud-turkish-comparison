@@ -1,0 +1,15 @@
+_
+SpaceAfter=No
+ModifiesHead=Yes
+Stem=suçluluk
+Stem=mı
+Stem=dizge
+Stem=yapılaş
+Stem=git
+SpaceAfter=No|Stem=de
+Stem=.
+Stem=gör
+Stem=de
+Stem=bil
+SpaceAfter=No|Stem=mu
+Stem=?
