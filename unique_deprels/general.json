@@ -1,0 +1,443 @@
+{
+    "_": {
+        "UD_Turkish-BOUN": 3374,
+        "UD_Turkish-GB": 371,
+        "UD_Turkish-IMST": 1639,
+        "UD_Turkish-PUD": 346
+    },
+    "acl": {
+        "UD_Turkish-Atis": 2042,
+        "UD_Turkish-BOUN": 3483,
+        "UD_Turkish-FrameNet": 254,
+        "UD_Turkish-GB": 299,
+        "UD_Turkish-IMST": 1536,
+        "UD_Turkish-Kenet": 4155,
+        "UD_Turkish-PUD": 515,
+        "UD_Turkish-Penn": 3138,
+        "UD_Turkish-Tourism": 810
+    },
+    "advcl": {
+        "UD_Turkish-Atis": 122,
+        "UD_Turkish-BOUN": 3057,
+        "UD_Turkish-FrameNet": 732,
+        "UD_Turkish-GB": 490,
+        "UD_Turkish-IMST": 1160,
+        "UD_Turkish-Kenet": 5409,
+        "UD_Turkish-PUD": 455,
+        "UD_Turkish-Penn": 2796,
+        "UD_Turkish-Tourism": 1236
+    },
+    "advmod": {
+        "UD_Turkish-Atis": 1014,
+        "UD_Turkish-BOUN": 4782,
+        "UD_Turkish-FrameNet": 1194,
+        "UD_Turkish-GB": 839,
+        "UD_Turkish-IMST": 2279,
+        "UD_Turkish-Kenet": 9685,
+        "UD_Turkish-PUD": 574,
+        "UD_Turkish-Penn": 8229,
+        "UD_Turkish-Tourism": 6830
+    },
+    "advmod:emph": {
+        "UD_Turkish-BOUN": 1662,
+        "UD_Turkish-GB": 145,
+        "UD_Turkish-IMST": 930,
+        "UD_Turkish-PUD": 117
+    },
+    "amod": {
+        "UD_Turkish-Atis": 2936,
+        "UD_Turkish-BOUN": 7175,
+        "UD_Turkish-FrameNet": 818,
+        "UD_Turkish-GB": 307,
+        "UD_Turkish-IMST": 3429,
+        "UD_Turkish-Kenet": 14337,
+        "UD_Turkish-PUD": 1318,
+        "UD_Turkish-Penn": 14259,
+        "UD_Turkish-Tourism": 3350
+    },
+    "appos": {
+        "UD_Turkish-Atis": 1,
+        "UD_Turkish-BOUN": 192,
+        "UD_Turkish-FrameNet": 1,
+        "UD_Turkish-GB": 5,
+        "UD_Turkish-IMST": 77,
+        "UD_Turkish-Kenet": 79,
+        "UD_Turkish-PUD": 146,
+        "UD_Turkish-Penn": 554,
+        "UD_Turkish-Tourism": 39
+    },
+    "aux": {
+        "UD_Turkish-Atis": 447,
+        "UD_Turkish-BOUN": 458,
+        "UD_Turkish-FrameNet": 28,
+        "UD_Turkish-GB": 176,
+        "UD_Turkish-IMST": 6,
+        "UD_Turkish-Kenet": 868,
+        "UD_Turkish-PUD": 30,
+        "UD_Turkish-Penn": 526,
+        "UD_Turkish-Tourism": 1281
+    },
+    "aux:q": {
+        "UD_Turkish-BOUN": 4,
+        "UD_Turkish-GB": 198,
+        "UD_Turkish-IMST": 218,
+        "UD_Turkish-PUD": 1
+    },
+    "case": {
+        "UD_Turkish-Atis": 994,
+        "UD_Turkish-BOUN": 2779,
+        "UD_Turkish-FrameNet": 380,
+        "UD_Turkish-GB": 347,
+        "UD_Turkish-IMST": 2226,
+        "UD_Turkish-Kenet": 3782,
+        "UD_Turkish-PUD": 692,
+        "UD_Turkish-Penn": 4552,
+        "UD_Turkish-Tourism": 2322
+    },
+    "cc": {
+        "UD_Turkish-Atis": 885,
+        "UD_Turkish-BOUN": 2898,
+        "UD_Turkish-FrameNet": 115,
+        "UD_Turkish-GB": 181,
+        "UD_Turkish-IMST": 1072,
+        "UD_Turkish-Kenet": 2984,
+        "UD_Turkish-PUD": 521,
+        "UD_Turkish-Penn": 4216,
+        "UD_Turkish-Tourism": 1482
+    },
+    "cc:preconj": {
+        "UD_Turkish-BOUN": 153,
+        "UD_Turkish-IMST": 3,
+        "UD_Turkish-PUD": 8
+    },
+    "ccomp": {
+        "UD_Turkish-Atis": 108,
+        "UD_Turkish-BOUN": 1596,
+        "UD_Turkish-FrameNet": 155,
+        "UD_Turkish-GB": 169,
+        "UD_Turkish-IMST": 629,
+        "UD_Turkish-Kenet": 2175,
+        "UD_Turkish-PUD": 173,
+        "UD_Turkish-Penn": 2954,
+        "UD_Turkish-Tourism": 220
+    },
+    "clf": {
+        "UD_Turkish-Atis": 1,
+        "UD_Turkish-BOUN": 29,
+        "UD_Turkish-IMST": 8,
+        "UD_Turkish-Kenet": 19,
+        "UD_Turkish-PUD": 10,
+        "UD_Turkish-Penn": 21,
+        "UD_Turkish-Tourism": 4
+    },
+    "compound": {
+        "UD_Turkish-Atis": 1472,
+        "UD_Turkish-BOUN": 2108,
+        "UD_Turkish-FrameNet": 2273,
+        "UD_Turkish-GB": 266,
+        "UD_Turkish-IMST": 1949,
+        "UD_Turkish-Kenet": 8211,
+        "UD_Turkish-PUD": 309,
+        "UD_Turkish-Penn": 8110,
+        "UD_Turkish-Tourism": 3935
+    },
+    "compound:lvc": {
+        "UD_Turkish-BOUN": 1265,
+        "UD_Turkish-IMST": 523,
+        "UD_Turkish-PUD": 201
+    },
+    "compound:redup": {
+        "UD_Turkish-BOUN": 479,
+        "UD_Turkish-GB": 52,
+        "UD_Turkish-IMST": 219,
+        "UD_Turkish-PUD": 9
+    },
+    "conj": {
+        "UD_Turkish-Atis": 951,
+        "UD_Turkish-BOUN": 7087,
+        "UD_Turkish-FrameNet": 119,
+        "UD_Turkish-GB": 237,
+        "UD_Turkish-IMST": 2881,
+        "UD_Turkish-Kenet": 5514,
+        "UD_Turkish-PUD": 696,
+        "UD_Turkish-Penn": 3576,
+        "UD_Turkish-Tourism": 1532
+    },
+    "cop": {
+        "UD_Turkish-BOUN": 2909,
+        "UD_Turkish-GB": 389,
+        "UD_Turkish-IMST": 849,
+        "UD_Turkish-PUD": 456
+    },
+    "csubj": {
+        "UD_Turkish-Atis": 100,
+        "UD_Turkish-BOUN": 581,
+        "UD_Turkish-FrameNet": 36,
+        "UD_Turkish-GB": 78,
+        "UD_Turkish-IMST": 80,
+        "UD_Turkish-Kenet": 402,
+        "UD_Turkish-PUD": 92,
+        "UD_Turkish-Penn": 434,
+        "UD_Turkish-Tourism": 81
+    },
+    "csubj:cop": {
+        "UD_Turkish-GB": 62
+    },
+    "csubj:outer": {
+        "UD_Turkish-BOUN": 1,
+        "UD_Turkish-GB": 1
+    },
+    "dep": {
+        "UD_Turkish-Atis": 6,
+        "UD_Turkish-BOUN": 12,
+        "UD_Turkish-IMST": 1,
+        "UD_Turkish-Kenet": 54,
+        "UD_Turkish-PUD": 3,
+        "UD_Turkish-Penn": 43,
+        "UD_Turkish-Tourism": 65
+    },
+    "dep:der": {
+        "UD_Turkish-BOUN": 582
+    },
+    "det": {
+        "UD_Turkish-Atis": 1303,
+        "UD_Turkish-BOUN": 5004,
+        "UD_Turkish-FrameNet": 765,
+        "UD_Turkish-GB": 963,
+        "UD_Turkish-IMST": 1922,
+        "UD_Turkish-Kenet": 7742,
+        "UD_Turkish-PUD": 686,
+        "UD_Turkish-Penn": 6303,
+        "UD_Turkish-Tourism": 2824
+    },
+    "discourse": {
+        "UD_Turkish-Atis": 429,
+        "UD_Turkish-BOUN": 572,
+        "UD_Turkish-FrameNet": 45,
+        "UD_Turkish-GB": 40,
+        "UD_Turkish-IMST": 271,
+        "UD_Turkish-Kenet": 586,
+        "UD_Turkish-PUD": 5,
+        "UD_Turkish-Penn": 1103,
+        "UD_Turkish-Tourism": 219
+    },
+    "discourse:q": {
+        "UD_Turkish-BOUN": 287
+    },
+    "dislocated": {
+        "UD_Turkish-Atis": 5,
+        "UD_Turkish-BOUN": 23,
+        "UD_Turkish-GB": 4,
+        "UD_Turkish-IMST": 20,
+        "UD_Turkish-Kenet": 27,
+        "UD_Turkish-PUD": 5,
+        "UD_Turkish-Penn": 7,
+        "UD_Turkish-Tourism": 4
+    },
+    "fixed": {
+        "UD_Turkish-Atis": 35,
+        "UD_Turkish-BOUN": 86,
+        "UD_Turkish-FrameNet": 8,
+        "UD_Turkish-GB": 86,
+        "UD_Turkish-IMST": 50,
+        "UD_Turkish-Kenet": 105,
+        "UD_Turkish-PUD": 17,
+        "UD_Turkish-Penn": 213,
+        "UD_Turkish-Tourism": 54
+    },
+    "flat": {
+        "UD_Turkish-Atis": 3261,
+        "UD_Turkish-BOUN": 1970,
+        "UD_Turkish-FrameNet": 4,
+        "UD_Turkish-GB": 8,
+        "UD_Turkish-IMST": 899,
+        "UD_Turkish-Kenet": 584,
+        "UD_Turkish-PUD": 410,
+        "UD_Turkish-Penn": 4254,
+        "UD_Turkish-Tourism": 78
+    },
+    "goeswith": {
+        "UD_Turkish-GB": 1,
+        "UD_Turkish-Penn": 46,
+        "UD_Turkish-Tourism": 39
+    },
+    "iobj": {
+        "UD_Turkish-Atis": 1,
+        "UD_Turkish-BOUN": 228,
+        "UD_Turkish-FrameNet": 1,
+        "UD_Turkish-IMST": 355,
+        "UD_Turkish-Kenet": 555,
+        "UD_Turkish-PUD": 138,
+        "UD_Turkish-Penn": 30
+    },
+    "list": {
+        "UD_Turkish-Atis": 27,
+        "UD_Turkish-BOUN": 56,
+        "UD_Turkish-FrameNet": 1,
+        "UD_Turkish-Kenet": 276,
+        "UD_Turkish-Penn": 352,
+        "UD_Turkish-Tourism": 24
+    },
+    "mark": {
+        "UD_Turkish-Atis": 11,
+        "UD_Turkish-BOUN": 202,
+        "UD_Turkish-FrameNet": 116,
+        "UD_Turkish-GB": 200,
+        "UD_Turkish-IMST": 82,
+        "UD_Turkish-Kenet": 649,
+        "UD_Turkish-PUD": 8,
+        "UD_Turkish-Penn": 904,
+        "UD_Turkish-Tourism": 241
+    },
+    "nmod": {
+        "UD_Turkish-Atis": 13271,
+        "UD_Turkish-BOUN": 2058,
+        "UD_Turkish-FrameNet": 1194,
+        "UD_Turkish-GB": 929,
+        "UD_Turkish-IMST": 1939,
+        "UD_Turkish-Kenet": 15049,
+        "UD_Turkish-PUD": 191,
+        "UD_Turkish-Penn": 28837,
+        "UD_Turkish-Tourism": 6273
+    },
+    "nmod:comp": {
+        "UD_Turkish-GB": 17
+    },
+    "nmod:part": {
+        "UD_Turkish-BOUN": 125,
+        "UD_Turkish-GB": 62
+    },
+    "nmod:poss": {
+        "UD_Turkish-BOUN": 10298,
+        "UD_Turkish-IMST": 3604,
+        "UD_Turkish-PUD": 1881
+    },
+    "nsubj": {
+        "UD_Turkish-Atis": 1839,
+        "UD_Turkish-BOUN": 8360,
+        "UD_Turkish-FrameNet": 1326,
+        "UD_Turkish-GB": 1630,
+        "UD_Turkish-IMST": 4395,
+        "UD_Turkish-Kenet": 12043,
+        "UD_Turkish-PUD": 1239,
+        "UD_Turkish-Penn": 16244,
+        "UD_Turkish-Tourism": 10165
+    },
+    "nsubj:cop": {
+        "UD_Turkish-GB": 23
+    },
+    "nsubj:outer": {
+        "UD_Turkish-BOUN": 28,
+        "UD_Turkish-GB": 2,
+        "UD_Turkish-IMST": 9,
+        "UD_Turkish-Kenet": 1,
+        "UD_Turkish-Penn": 2
+    },
+    "nummod": {
+        "UD_Turkish-Atis": 710,
+        "UD_Turkish-BOUN": 1554,
+        "UD_Turkish-FrameNet": 121,
+        "UD_Turkish-GB": 193,
+        "UD_Turkish-IMST": 597,
+        "UD_Turkish-Kenet": 1795,
+        "UD_Turkish-PUD": 268,
+        "UD_Turkish-Penn": 6793,
+        "UD_Turkish-Tourism": 648
+    },
+    "obj": {
+        "UD_Turkish-Atis": 2746,
+        "UD_Turkish-BOUN": 7406,
+        "UD_Turkish-FrameNet": 1522,
+        "UD_Turkish-GB": 1125,
+        "UD_Turkish-IMST": 3747,
+        "UD_Turkish-Kenet": 11862,
+        "UD_Turkish-PUD": 947,
+        "UD_Turkish-Penn": 8605,
+        "UD_Turkish-Tourism": 2904
+    },
+    "obl": {
+        "UD_Turkish-Atis": 4940,
+        "UD_Turkish-BOUN": 12120,
+        "UD_Turkish-FrameNet": 1407,
+        "UD_Turkish-GB": 1320,
+        "UD_Turkish-IMST": 3894,
+        "UD_Turkish-Kenet": 17318,
+        "UD_Turkish-PUD": 1465,
+        "UD_Turkish-Penn": 11221,
+        "UD_Turkish-Tourism": 2086
+    },
+    "obl:agent": {
+        "UD_Turkish-GB": 23
+    },
+    "obl:tmod": {
+        "UD_Turkish-BOUN": 365,
+        "UD_Turkish-GB": 503
+    },
+    "orphan": {
+        "UD_Turkish-Atis": 3,
+        "UD_Turkish-BOUN": 41,
+        "UD_Turkish-FrameNet": 1,
+        "UD_Turkish-GB": 7,
+        "UD_Turkish-IMST": 5,
+        "UD_Turkish-Kenet": 15,
+        "UD_Turkish-PUD": 7,
+        "UD_Turkish-Penn": 1,
+        "UD_Turkish-Tourism": 1
+    },
+    "parataxis": {
+        "UD_Turkish-Atis": 115,
+        "UD_Turkish-BOUN": 252,
+        "UD_Turkish-FrameNet": 474,
+        "UD_Turkish-GB": 53,
+        "UD_Turkish-IMST": 127,
+        "UD_Turkish-Kenet": 3481,
+        "UD_Turkish-PUD": 15,
+        "UD_Turkish-Penn": 708,
+        "UD_Turkish-Tourism": 2327
+    },
+    "punct": {
+        "UD_Turkish-Atis": 217,
+        "UD_Turkish-BOUN": 20756,
+        "UD_Turkish-FrameNet": 3397,
+        "UD_Turkish-GB": 2744,
+        "UD_Turkish-IMST": 10409,
+        "UD_Turkish-Kenet": 29134,
+        "UD_Turkish-PUD": 2146,
+        "UD_Turkish-Penn": 27427,
+        "UD_Turkish-Tourism": 20140
+    },
+    "reparandum": {
+        "UD_Turkish-Kenet": 7
+    },
+    "root": {
+        "UD_Turkish-Atis": 5432,
+        "UD_Turkish-BOUN": 9761,
+        "UD_Turkish-FrameNet": 2698,
+        "UD_Turkish-GB": 2880,
+        "UD_Turkish-IMST": 5635,
+        "UD_Turkish-Kenet": 18687,
+        "UD_Turkish-PUD": 1000,
+        "UD_Turkish-Penn": 16396,
+        "UD_Turkish-Tourism": 19833
+    },
+    "vocative": {
+        "UD_Turkish-BOUN": 107,
+        "UD_Turkish-FrameNet": 6,
+        "UD_Turkish-GB": 4,
+        "UD_Turkish-IMST": 22,
+        "UD_Turkish-Kenet": 218,
+        "UD_Turkish-Penn": 11,
+        "UD_Turkish-Tourism": 4
+    },
+    "xcomp": {
+        "UD_Turkish-Atis": 451,
+        "UD_Turkish-BOUN": 261,
+        "UD_Turkish-FrameNet": 30,
+        "UD_Turkish-GB": 119,
+        "UD_Turkish-IMST": 39,
+        "UD_Turkish-Kenet": 850,
+        "UD_Turkish-PUD": 127,
+        "UD_Turkish-Penn": 690,
+        "UD_Turkish-Tourism": 418
+    }
+}

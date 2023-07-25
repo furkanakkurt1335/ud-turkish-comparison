@@ -1,0 +1,470 @@
+{
+    "''": {
+        "UD_Turkish-PUD": 82
+    },
+    "(": {
+        "UD_Turkish-PUD": 36
+    },
+    ")": {
+        "UD_Turkish-PUD": 37
+    },
+    ",": {
+        "UD_Turkish-PUD": 808
+    },
+    "-": {
+        "UD_Turkish-BOUN": 4,
+        "UD_Turkish-PUD": 34
+    },
+    ".": {
+        "UD_Turkish-PUD": 1037
+    },
+    ":": {
+        "UD_Turkish-PUD": 27
+    },
+    "A3pl": {
+        "UD_Turkish-IMST": 2
+    },
+    "ADj": {
+        "UD_Turkish-BOUN": 2
+    },
+    "ANum": {
+        "UD_Turkish-BOUN": 1901,
+        "UD_Turkish-IMST": 1729
+    },
+    "AUX": {
+        "UD_Turkish-PUD": 166
+    },
+    "Abbr": {
+        "UD_Turkish-BOUN": 28
+    },
+    "Abr": {
+        "UD_Turkish-BOUN": 347,
+        "UD_Turkish-IMST": 133
+    },
+    "Adj": {
+        "UD_Turkish-BOUN": 7348,
+        "UD_Turkish-IMST": 3289
+    },
+    "Adv": {
+        "UD_Turkish-IMST": 1
+    },
+    "Adverb": {
+        "UD_Turkish-IMST": 2174
+    },
+    "Advmod": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Agt": {
+        "UD_Turkish-IMST": 33
+    },
+    "Anum": {
+        "UD_Turkish-BOUN": 1
+    },
+    "AsIf": {
+        "UD_Turkish-IMST": 13
+    },
+    "Attr": {
+        "UD_Turkish-BOUN": 600
+    },
+    "Aux": {
+        "UD_Turkish-BOUN": 1,
+        "UD_Turkish-IMST": 14
+    },
+    "CCONJ": {
+        "UD_Turkish-PUD": 493
+    },
+    "CD": {
+        "UD_Turkish-PUD": 376
+    },
+    "COnv": {
+        "UD_Turkish-BOUN": 2
+    },
+    "CPar": {
+        "UD_Turkish-BOUN": 162
+    },
+    "CRB": {
+        "UD_Turkish-PUD": 215
+    },
+    "Comma": {
+        "UD_Turkish-BOUN": 7319
+    },
+    "Comv": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Conj": {
+        "UD_Turkish-BOUN": 1175,
+        "UD_Turkish-IMST": 2237
+    },
+    "Conv": {
+        "UD_Turkish-BOUN": 1820
+    },
+    "DT": {
+        "UD_Turkish-PUD": 671
+    },
+    "Demons": {
+        "UD_Turkish-BOUN": 1425,
+        "UD_Turkish-IMST": 359
+    },
+    "Det": {
+        "UD_Turkish-BOUN": 1727,
+        "UD_Turkish-IMST": 1019
+    },
+    "Dup": {
+        "UD_Turkish-BOUN": 2,
+        "UD_Turkish-IMST": 23
+    },
+    "Emph": {
+        "UD_Turkish-BOUN": 1495
+    },
+    "Excl": {
+        "UD_Turkish-BOUN": 272
+    },
+    "ExclDots": {
+        "UD_Turkish-BOUN": 2
+    },
+    "Exist": {
+        "UD_Turkish-BOUN": 507
+    },
+    "ExistConv": {
+        "UD_Turkish-BOUN": 1
+    },
+    "ExistPtcp": {
+        "UD_Turkish-BOUN": 8
+    },
+    "ExistVnoun": {
+        "UD_Turkish-BOUN": 2
+    },
+    "Expr": {
+        "UD_Turkish-BOUN": 1
+    },
+    "FW": {
+        "UD_Turkish-PUD": 103
+    },
+    "GW": {
+        "UD_Turkish-PUD": 2
+    },
+    "IN": {
+        "UD_Turkish-PUD": 511
+    },
+    "INTJ": {
+        "UD_Turkish-PUD": 2
+    },
+    "Indef": {
+        "UD_Turkish-BOUN": 2436,
+        "UD_Turkish-IMST": 4
+    },
+    "Inst": {
+        "UD_Turkish-BOUN": 274
+    },
+    "Interj": {
+        "UD_Turkish-BOUN": 11,
+        "UD_Turkish-IMST": 99
+    },
+    "JJ": {
+        "UD_Turkish-PUD": 1432
+    },
+    "List": {
+        "UD_Turkish-BOUN": 10
+    },
+    "Ly": {
+        "UD_Turkish-IMST": 52
+    },
+    "NAdj": {
+        "UD_Turkish-BOUN": 456,
+        "UD_Turkish-IMST": 2415
+    },
+    "NN": {
+        "UD_Turkish-PUD": 5545
+    },
+    "NNum": {
+        "UD_Turkish-BOUN": 531,
+        "UD_Turkish-IMST": 318
+    },
+    "NOMP": {
+        "UD_Turkish-PUD": 22
+    },
+    "NOUN": {
+        "UD_Turkish-BOUN": 10
+    },
+    "NUM": {
+        "UD_Turkish-IMST": 1,
+        "UD_Turkish-PUD": 1
+    },
+    "Neg": {
+        "UD_Turkish-BOUN": 118,
+        "UD_Turkish-IMST": 127
+    },
+    "Ness": {
+        "UD_Turkish-BOUN": 5,
+        "UD_Turkish-IMST": 52
+    },
+    "Nnum": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Noun": {
+        "UD_Turkish-BOUN": 2,
+        "UD_Turkish-IMST": 15600
+    },
+    "OPar": {
+        "UD_Turkish-BOUN": 180
+    },
+    "OVert": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Overt": {
+        "UD_Turkish-BOUN": 144
+    },
+    "P": {
+        "UD_Turkish-BOUN": 1
+    },
+    "P;lace": {
+        "UD_Turkish-BOUN": 2
+    },
+    "PCAbl": {
+        "UD_Turkish-BOUN": 369,
+        "UD_Turkish-IMST": 193
+    },
+    "PCAcc": {
+        "UD_Turkish-BOUN": 9,
+        "UD_Turkish-IMST": 1
+    },
+    "PCDat": {
+        "UD_Turkish-BOUN": 614,
+        "UD_Turkish-IMST": 305
+    },
+    "PCGen": {
+        "UD_Turkish-BOUN": 8,
+        "UD_Turkish-IMST": 2
+    },
+    "PCIns": {
+        "UD_Turkish-BOUN": 49,
+        "UD_Turkish-IMST": 21
+    },
+    "PCNom": {
+        "UD_Turkish-BOUN": 1386,
+        "UD_Turkish-IMST": 803
+    },
+    "PDT": {
+        "UD_Turkish-PUD": 9
+    },
+    "PRD": {
+        "UD_Turkish-PUD": 90
+    },
+    "PRF": {
+        "UD_Turkish-PUD": 1
+    },
+    "PRI": {
+        "UD_Turkish-PUD": 97
+    },
+    "PROPN": {
+        "UD_Turkish-BOUN": 2,
+        "UD_Turkish-PUD": 1526
+    },
+    "PRP": {
+        "UD_Turkish-PUD": 49
+    },
+    "PRP$": {
+        "UD_Turkish-PUD": 11
+    },
+    "PRR": {
+        "UD_Turkish-PUD": 42
+    },
+    "PTcp": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Part": {
+        "UD_Turkish-BOUN": 13
+    },
+    "Partic": {
+        "UD_Turkish-BOUN": 6
+    },
+    "Pers": {
+        "UD_Turkish-BOUN": 1775,
+        "UD_Turkish-IMST": 1189
+    },
+    "Place": {
+        "UD_Turkish-BOUN": 1099
+    },
+    "Postp": {
+        "UD_Turkish-BOUN": 5,
+        "UD_Turkish-IMST": 5
+    },
+    "Prop": {
+        "UD_Turkish-IMST": 2176
+    },
+    "Ptcp": {
+        "UD_Turkish-BOUN": 7351
+    },
+    "Punc": {
+        "UD_Turkish-BOUN": 3931,
+        "UD_Turkish-IMST": 10424
+    },
+    "Quan": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Quant": {
+        "UD_Turkish-BOUN": 305,
+        "UD_Turkish-IMST": 158
+    },
+    "Ques": {
+        "UD_Turkish-BOUN": 1283,
+        "UD_Turkish-IMST": 492
+    },
+    "QuesDots": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Quest": {
+        "UD_Turkish-BOUN": 2
+    },
+    "RB": {
+        "UD_Turkish-PUD": 721
+    },
+    "Recip": {
+        "UD_Turkish-BOUN": 35
+    },
+    "Reflex": {
+        "UD_Turkish-BOUN": 367,
+        "UD_Turkish-IMST": 178
+    },
+    "Rel": {
+        "UD_Turkish-BOUN": 24,
+        "UD_Turkish-IMST": 333
+    },
+    "SCONJ": {
+        "UD_Turkish-PUD": 13
+    },
+    "SYM": {
+        "UD_Turkish-PUD": 6
+    },
+    "Separ": {
+        "UD_Turkish-BOUN": 57
+    },
+    "Since": {
+        "UD_Turkish-BOUN": 24,
+        "UD_Turkish-IMST": 10
+    },
+    "Stop": {
+        "UD_Turkish-BOUN": 7907
+    },
+    "TDots": {
+        "UD_Turkish-BOUN": 563
+    },
+    "Topic": {
+        "UD_Turkish-BOUN": 118
+    },
+    "Typo": {
+        "UD_Turkish-BOUN": 9
+    },
+    "VB": {
+        "UD_Turkish-PUD": 1115
+    },
+    "VJ": {
+        "UD_Turkish-PUD": 558
+    },
+    "VN": {
+        "UD_Turkish-PUD": 922
+    },
+    "Venoun": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Verb": {
+        "UD_Turkish-IMST": 10937,
+        "UD_Turkish-PUD": 1
+    },
+    "Vnoun": {
+        "UD_Turkish-BOUN": 3214
+    },
+    "Vnouon": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Voun": {
+        "UD_Turkish-BOUN": 1
+    },
+    "WDT": {
+        "UD_Turkish-PUD": 4
+    },
+    "WP": {
+        "UD_Turkish-PUD": 16
+    },
+    "WRB": {
+        "UD_Turkish-PUD": 12
+    },
+    "Web": {
+        "UD_Turkish-BOUN": 2
+    },
+    "With": {
+        "UD_Turkish-BOUN": 45,
+        "UD_Turkish-IMST": 272
+    },
+    "Without": {
+        "UD_Turkish-BOUN": 13,
+        "UD_Turkish-IMST": 43
+    },
+    "YEar": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Year": {
+        "UD_Turkish-BOUN": 144
+    },
+    "Yer": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Zer": {
+        "UD_Turkish-BOUN": 2
+    },
+    "Zero": {
+        "UD_Turkish-BOUN": 2492,
+        "UD_Turkish-IMST": 856
+    },
+    "Zerp": {
+        "UD_Turkish-BOUN": 1
+    },
+    "Zerı": {
+        "UD_Turkish-BOUN": 2
+    },
+    "_": {
+        "UD_Turkish-Atis": 45875,
+        "UD_Turkish-BOUN": 64997,
+        "UD_Turkish-FrameNet": 19221,
+        "UD_Turkish-GB": 17548,
+        "UD_Turkish-IMST": 1642,
+        "UD_Turkish-Kenet": 178658,
+        "UD_Turkish-PUD": 346,
+        "UD_Turkish-Penn": 183555,
+        "UD_Turkish-Tourism": 91469
+    },
+    "``": {
+        "UD_Turkish-PUD": 88
+    },
+    "a": {
+        "UD_Turkish-BOUN": 1
+    },
+    "det": {
+        "UD_Turkish-BOUN": 4
+    },
+    "exist": {
+        "UD_Turkish-BOUN": 1
+    },
+    "noun": {
+        "UD_Turkish-BOUN": 2,
+        "UD_Turkish-IMST": 1
+    },
+    "place": {
+        "UD_Turkish-BOUN": 3
+    },
+    "prop": {
+        "UD_Turkish-BOUN": 1
+    },
+    "ptcp": {
+        "UD_Turkish-BOUN": 1
+    },
+    "punc": {
+        "UD_Turkish-BOUN": 1
+    },
+    "verb": {
+        "UD_Turkish-BOUN": 3
+    },
+    "vnoun": {
+        "UD_Turkish-BOUN": 2
+    }
+}
