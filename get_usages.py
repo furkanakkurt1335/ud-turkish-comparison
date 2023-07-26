@@ -4,7 +4,7 @@ tb_dir = 'treebanks'
 data_files = [i for i in os.listdir(tb_dir) if i.endswith('.json')]
 data_files.sort()
 usage_d = {}
-usage_l = ['mıştı', 'mişti', 'ecekmiş', 'ecekti', 'yormuş', 'yordu']
+usage_l = ['mıştı', 'mişti', 'ecekmiş', 'acakmış', 'ecekti', 'acaktı', 'yormuş', 'yordu']
 lemma_l = ['ol', 'ki', 'mi', 'mı', 'de', 'da', 'değil']
 deprel_l = ['compound']
 for file in data_files:
