@@ -1,6 +1,5 @@
-import os, re, json
+import os, json
 
-annotation_pattern = '(# .+? = .+?\n)*?(((.+?\t){9}.+?\n)+?)\n'
 unique_forms_dir = 'unique_forms'
 if not os.path.exists(unique_forms_dir):
     os.mkdir(unique_forms_dir)
