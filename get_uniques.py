@@ -68,14 +68,17 @@ for file in data_files:
             if xpos_t not in xpos_d:
                 xpos_d[xpos_t] = 0
             xpos_d[xpos_t] += 1
-            if feats_t not in general_feats_d:
-                general_feats_d[feats_t] = {}
-            if file_base not in general_feats_d[feats_t]:
-                general_feats_d[feats_t][file_base] = 0
-            general_feats_d[feats_t][file_base] += 1
-            if feats_t not in feats_d:
-                feats_d[feats_t] = 0
-            feats_d[feats_t] += 1
+            feat_l = feats_t.split('|')
+            if not (len(feat_l) == 1 and feat_l[0] == '_'):
+                for feat in feat_l:
+                    if feat not in general_feats_d:
+                        general_feats_d[feat] = {}
+                    if file_base not in general_feats_d[feat]:
+                        general_feats_d[feat][file_base] = 0
+                    general_feats_d[feat][file_base] += 1
+                    if feat not in feats_d:
+                        feats_d[feat] = 0
+                    feats_d[feat] += 1
             if deprel_t not in general_deprel_d:
                 general_deprel_d[deprel_t] = {}
             if file_base not in general_deprel_d[deprel_t]:
@@ -84,14 +87,17 @@ for file in data_files:
             if deprel_t not in deprel_d:
                 deprel_d[deprel_t] = 0
             deprel_d[deprel_t] += 1
-            if misc_t not in general_misc_d:
-                general_misc_d[misc_t] = {}
-            if file_base not in general_misc_d[misc_t]:
-                general_misc_d[misc_t][file_base] = 0
-            general_misc_d[misc_t][file_base] += 1
-            if misc_t not in misc_d:
-                misc_d[misc_t] = 0
-            misc_d[misc_t] += 1
+            misc_l = misc_t.split('|')
+            if not (len(misc_l) == 1 and misc_l[0] == '_'):
+                for misc in misc_l:
+                    if misc not in general_misc_d:
+                        general_misc_d[misc] = {}
+                    if file_base not in general_misc_d[misc]:
+                        general_misc_d[misc][file_base] = 0
+                    general_misc_d[misc][file_base] += 1
+                    if misc not in misc_d:
+                        misc_d[misc] = 0
+                    misc_d[misc] += 1
     with open(os.path.join(unique_forms_dir, file), 'w', encoding='utf-8') as f:
         form_d = {k: v for k, v in sorted(form_d.items(), key=lambda item: item[1], reverse=True)}
         json.dump(form_d, f, ensure_ascii=False, indent=4)

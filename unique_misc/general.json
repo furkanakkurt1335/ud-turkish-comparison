@@ -38,7 +38,7 @@
     "DerivedFrom=Ak": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=Akşehir|SpaceAfter=No": {
+    "DerivedFrom=Akşehir": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Alat": {
@@ -49,6 +49,9 @@
     },
     "DerivedFrom=Amerika": {
         "UD_Turkish-BOUN": 7
+    },
+    "DerivedFrom=Amerikan": {
+        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Anado": {
         "UD_Turkish-BOUN": 8
@@ -65,14 +68,11 @@
     "DerivedFrom=Arabulucu": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=Arami|SpaceAfter=No": {
+    "DerivedFrom=Arami": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Arap": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=Arap|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=Arkad": {
         "UD_Turkish-BOUN": 1
@@ -209,14 +209,14 @@
     "DerivedFrom=Fark": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=Felluce|SpaceAfter=No": {
+    "DerivedFrom=Felluce": {
+        "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=Fener": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Fenerbahçe": {
         "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=Fener|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Festiva": {
         "UD_Turkish-BOUN": 2
@@ -228,10 +228,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Fransız": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=Fransız|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=Frenk": {
         "UD_Turkish-BOUN": 1
@@ -347,7 +344,7 @@
     "DerivedFrom=Kek": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=Kemal|SpaceAfter=No": {
+    "DerivedFrom=Kemal": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Kemik": {
@@ -425,7 +422,7 @@
     "DerivedFrom=Mekke": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=Mesudiye|true=Mesudiyeli|typo=yes": {
+    "DerivedFrom=Mesudiye": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Miami": {
@@ -530,7 +527,7 @@
     "DerivedFrom=Sembol": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=Ses|SpaceAfter=No": {
+    "DerivedFrom=Ses": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Sevgi": {
@@ -594,19 +591,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Türk": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=Türkistan": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Türkiye": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=Türkiye|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=Türk|true=Türkçeye|typo=yes": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=UFO": {
         "UD_Turkish-BOUN": 1
@@ -669,10 +660,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=acımasız": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=acımasız|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=ad": {
         "UD_Turkish-BOUN": 38
@@ -681,12 +669,9 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=adalet": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
-    "DerivedFrom=adalet|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=adam|SpaceAfter=No": {
+    "DerivedFrom=adam": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ahenk": {
@@ -696,12 +681,9 @@
         "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=ahlaklı": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=ahlaklı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=ahlaksız|SpaceAfter=No": {
+    "DerivedFrom=ahlaksız": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ahlâk": {
@@ -714,19 +696,19 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ak": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=akla": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=akraba|SpaceAfter=No": {
+    "DerivedFrom=akraba": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=akü": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=akıl": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=al": {
         "UD_Turkish-BOUN": 4
@@ -735,10 +717,7 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=algı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=algı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=alko": {
         "UD_Turkish-BOUN": 1
@@ -756,22 +735,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=alış": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=alışkan": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=alışkan|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=alış|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=amaç": {
         "UD_Turkish-BOUN": 6
     },
-    "DerivedFrom=amaç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+    "DerivedFrom=amaç": {
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=ambalaj": {
         "UD_Turkish-BOUN": 1
@@ -788,35 +758,26 @@
     "DerivedFrom=anahtar": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=anket|SpaceAfter=No": {
+    "DerivedFrom=anket": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=anla": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=anlam": {
-        "UD_Turkish-BOUN": 8
+        "UD_Turkish-BOUN": 10
     },
-    "DerivedFrom=anlam|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=anlat|SpaceAfter=No": {
+    "DerivedFrom=anlat": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=anlayış": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=anla|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=anlaş": {
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=anne": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=anne|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=anormal": {
         "UD_Turkish-BOUN": 1
@@ -828,7 +789,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ara": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=araba": {
         "UD_Turkish-BOUN": 1
@@ -842,17 +803,11 @@
     "DerivedFrom=arap": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=ara|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=araştır": {
-        "UD_Turkish-BOUN": 12
+        "UD_Turkish-BOUN": 14
     },
     "DerivedFrom=araştırma": {
         "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=araştır|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=arkadaş": {
         "UD_Turkish-BOUN": 5
@@ -873,10 +828,7 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=asker": {
-        "UD_Turkish-BOUN": 7
-    },
-    "DerivedFrom=asker|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=aslan": {
         "UD_Turkish-BOUN": 1
@@ -900,7 +852,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ay": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=ayak": {
         "UD_Turkish-BOUN": 3
@@ -912,7 +864,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ayrı": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=ayrıca": {
         "UD_Turkish-BOUN": 1
@@ -923,12 +875,6 @@
     "DerivedFrom=ayrıntı": {
         "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=ayrı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=ay|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=ayı": {
         "UD_Turkish-BOUN": 1
     },
@@ -936,31 +882,22 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=az": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=azaltma": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=azim|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=az|SpaceAfter=No": {
+    "DerivedFrom=azim": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=aç": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=açgöz": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=aç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=aç|SpacesAfter=\\r\\n": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=açık": {
-        "UD_Turkish-BOUN": 9
+        "UD_Turkish-BOUN": 11
     },
     "DerivedFrom=açıkgözlü": {
         "UD_Turkish-BOUN": 1
@@ -971,10 +908,7 @@
     "DerivedFrom=açıksöz": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=açık|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=ağabey|SpaceAfter=No": {
+    "DerivedFrom=ağabey": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ağaç": {
@@ -998,7 +932,13 @@
     "DerivedFrom=aş": {
         "UD_Turkish-BOUN": 2
     },
+    "DerivedFrom=aşağı": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=aşure": {
+        "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=aşırı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ba": {
@@ -1020,30 +960,21 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bak": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=bakan": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=bakan|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=bak|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 9
     },
     "DerivedFrom=bakım": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bakış": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=bakış|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=balık": {
         "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=bandaj|SpaceAfter=No": {
+    "DerivedFrom=bandaj": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bandra": {
@@ -1064,13 +995,13 @@
     "DerivedFrom=bas": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=baskı|SpaceAfter=No": {
+    "DerivedFrom=baskı": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=basınç": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=bat|SpaceAfter=No": {
+    "DerivedFrom=bat": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=batı": {
@@ -1083,54 +1014,39 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bağ": {
-        "UD_Turkish-BOUN": 25
+        "UD_Turkish-BOUN": 29
     },
-    "DerivedFrom=bağdaşık|SpaceAfter=No": {
+    "DerivedFrom=bağdaşık": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bağlantı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bağlı": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=bağlı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=bağ|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=bağ|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=bağım": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=bağımlı": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=bağımlı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=bağımsız": {
         "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=bağım|SpaceAfter=No": {
+    "DerivedFrom=bağış": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=baş": {
-        "UD_Turkish-BOUN": 10
+        "UD_Turkish-BOUN": 19
     },
     "DerivedFrom=başar": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=başarı": {
-        "UD_Turkish-BOUN": 22
+        "UD_Turkish-BOUN": 24
     },
     "DerivedFrom=başarısız": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=başarı|SpaceAfter=No": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=başbakan": {
@@ -1140,12 +1056,9 @@
         "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=başla": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=başlanma": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=başla|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=başlık": {
@@ -1156,9 +1069,6 @@
     },
     "DerivedFrom=başyazar": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=baş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 9
     },
     "DerivedFrom=başörtü": {
         "UD_Turkish-BOUN": 2
@@ -1182,13 +1092,10 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=bekle": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=beklenti": {
         "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=bekle|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bel": {
         "UD_Turkish-BOUN": 13
@@ -1200,7 +1107,7 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=belir": {
-        "UD_Turkish-BOUN": 10
+        "UD_Turkish-BOUN": 11
     },
     "DerivedFrom=belirle": {
         "UD_Turkish-BOUN": 2
@@ -1208,23 +1115,14 @@
     "DerivedFrom=belirsiz": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=belir|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=ben": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
-    "DerivedFrom=bencil|SpaceAfter=No": {
+    "DerivedFrom=bencil": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=benzer": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=benzer|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=ben|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=beraber": {
         "UD_Turkish-BOUN": 9
@@ -1232,34 +1130,31 @@
     "DerivedFrom=bereket": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=besle|SpaceAfter=No": {
+    "DerivedFrom=besle": {
+        "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=bey": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=beyaz": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=beyaz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=beyin": {
         "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=bey|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=beşer": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bil": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=bilgi|SpaceAfter=No": {
+    "DerivedFrom=bilgi": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bilim": {
         "UD_Turkish-BOUN": 5
     },
-    "DerivedFrom=bilimsel|SpaceAfter=No": {
+    "DerivedFrom=bilimsel": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bilin.": {
@@ -1269,10 +1164,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bilinç": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=bilinç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=bilirkişi": {
         "UD_Turkish-BOUN": 1
@@ -1283,9 +1175,6 @@
     "DerivedFrom=bilmez": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=bil|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=bin": {
         "UD_Turkish-BOUN": 8
     },
@@ -1293,7 +1182,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bir": {
-        "UD_Turkish-BOUN": 19
+        "UD_Turkish-BOUN": 22
     },
     "DerivedFrom=biraz": {
         "UD_Turkish-BOUN": 2
@@ -1313,10 +1202,7 @@
     "DerivedFrom=birlikte": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=bir|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=birçenekli|SpaceAfter=No": {
+    "DerivedFrom=birçenekli": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bit": {
@@ -1328,10 +1214,10 @@
     "DerivedFrom=bitiş": {
         "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=bitkin": {
+    "DerivedFrom=bitki": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=bitki|SpaceAfter=No": {
+    "DerivedFrom=bitkin": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bol": {
@@ -1349,25 +1235,19 @@
     "DerivedFrom=borç": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=botoks|SpaceAfter=No": {
+    "DerivedFrom=botoks": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=boy": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=boyunbağı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=boyut": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=boyutlu": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=boyut|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=boy|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=boz": {
@@ -1394,11 +1274,11 @@
     "DerivedFrom=bul": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=bulan|SpaceAfter=No": {
+    "DerivedFrom=bulan": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=bulanık": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=bulma": {
         "UD_Turkish-BOUN": 1
@@ -1406,17 +1286,14 @@
     "DerivedFrom=bulumik": {
         "UD_Turkish-BOUN": 1
     },
+    "DerivedFrom=bulut": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=bulutsuz": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=bulut|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=buluş": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=buluş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=bulvar": {
         "UD_Turkish-BOUN": 1
@@ -1431,37 +1308,25 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=böl": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=bölge": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=böl|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=böyle": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=böyle|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=bütün": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 8
     },
-    "DerivedFrom=bütüncül|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=bütün|SpaceAfter=No": {
+    "DerivedFrom=bütüncül": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=büyü": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=büyük": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=büyü|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=bıçak": {
         "UD_Turkish-BOUN": 1
@@ -1469,11 +1334,11 @@
     "DerivedFrom=cahil": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=can": {
-        "UD_Turkish-BOUN": 16
+    "DerivedFrom=cambaz": {
+        "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=can|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+    "DerivedFrom=can": {
+        "UD_Turkish-BOUN": 18
     },
     "DerivedFrom=casus": {
         "UD_Turkish-BOUN": 1
@@ -1482,10 +1347,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=cevap": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=cevap|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=ceza": {
         "UD_Turkish-BOUN": 4
@@ -1493,14 +1355,11 @@
     "DerivedFrom=chat": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=cilt|SpaceAfter=No": {
+    "DerivedFrom=cilt": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=cinsel": {
-        "UD_Turkish-BOUN": 6
-    },
-    "DerivedFrom=cinsel|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=cirit": {
         "UD_Turkish-BOUN": 1
@@ -1509,15 +1368,12 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=coşku": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=coşku|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=cumhuriyetçi": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=cömert|SpaceAfter=No": {
+    "DerivedFrom=cömert": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=cümle": {
@@ -1536,7 +1392,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=damga": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=dans": {
         "UD_Turkish-BOUN": 1
@@ -1548,12 +1404,9 @@
         "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=darbe": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=darbeci|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=darbe|SpaceAfter=No": {
+    "DerivedFrom=darbeci": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dava": {
@@ -1580,7 +1433,7 @@
     "DerivedFrom=dayanıklı": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=dayı|SpaceAfter=No": {
+    "DerivedFrom=dayı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dağ": {
@@ -1589,7 +1442,7 @@
     "DerivedFrom=dağcı": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=dağla|SpaceAfter=No": {
+    "DerivedFrom=dağla": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dağıl": {
@@ -1599,34 +1452,31 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=de": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=debdebe|SpaceAfter=No": {
+    "DerivedFrom=debdebe": {
         "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=dede": {
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=dedektif": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=dede|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=defa": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=defterdar|SpaceAfter=No": {
+    "DerivedFrom=defterdar": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=del": {
         "UD_Turkish-BOUN": 2
     },
+    "DerivedFrom=deli": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=delikan": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=delikan|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=deli|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=deme": {
         "UD_Turkish-BOUN": 1
@@ -1637,6 +1487,9 @@
     "DerivedFrom=den": {
         "UD_Turkish-BOUN": 5
     },
+    "DerivedFrom=dene": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=denetim": {
         "UD_Turkish-BOUN": 1
     },
@@ -1646,19 +1499,16 @@
     "DerivedFrom=deneyim": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=dene|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=denge": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=denizci": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=densiz|SpaceAfter=No": {
+    "DerivedFrom=densiz": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=deon|SpaceAfter=No": {
+    "DerivedFrom=deon": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=deprem": {
@@ -1668,19 +1518,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=deri": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=derin": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=deri|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=dert": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=dert|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=derun": {
         "UD_Turkish-BOUN": 1
@@ -1692,10 +1536,7 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=detay": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=detay|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=dev": {
         "UD_Turkish-BOUN": 1
@@ -1709,28 +1550,16 @@
     "DerivedFrom=devrim": {
         "UD_Turkish-BOUN": 5
     },
-    "DerivedFrom=de|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=değer": {
-        "UD_Turkish-BOUN": 18
-    },
-    "DerivedFrom=değer|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 20
     },
     "DerivedFrom=değiş": {
         "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=değişik": {
-        "UD_Turkish-BOUN": 15
+        "UD_Turkish-BOUN": 18
     },
     "DerivedFrom=değişiklik": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=değişik|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=değişik|SpacesAfter=\\n": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=deş": {
@@ -1746,10 +1575,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dikkat": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=dikkat|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=diktatör": {
         "UD_Turkish-BOUN": 1
@@ -1757,34 +1583,28 @@
     "DerivedFrom=dilen": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=dilim|SpaceAfter=No": {
+    "DerivedFrom=dilim": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=din": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=dinamit": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=dingin|SpaceAfter=No": {
+    "DerivedFrom=dingin": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dinle": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=dinle|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=dinsiz": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=din|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dinç": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=dip|SpaceAfter=No": {
+    "DerivedFrom=dip": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=diren": {
@@ -1796,13 +1616,13 @@
     "DerivedFrom=diri": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=dizgin|SpaceAfter=No": {
+    "DerivedFrom=dizgin": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=diç": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=diş|SpaceAfter=No": {
+    "DerivedFrom=diş": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=do": {
@@ -1821,19 +1641,13 @@
         "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=dolandır": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=dolandır|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=dolar": {
         "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=dolay": {
-        "UD_Turkish-BOUN": 6
-    },
-    "DerivedFrom=dolay|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=dolgu": {
         "UD_Turkish-BOUN": 1
@@ -1854,10 +1668,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dost": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=dost|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=dostça": {
         "UD_Turkish-BOUN": 1
@@ -1881,13 +1692,10 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=doğru": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=doğrultu": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=doğru|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=doğum": {
         "UD_Turkish-BOUN": 2
@@ -1899,7 +1707,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dur": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=durak": {
         "UD_Turkish-BOUN": 1
@@ -1910,29 +1718,20 @@
     "DerivedFrom=durgun": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=dur|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=duy": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=duyar": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=duyarlı": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=duyar|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=duygu": {
-        "UD_Turkish-BOUN": 9
+        "UD_Turkish-BOUN": 12
     },
     "DerivedFrom=duygusal": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=duygu|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=dyn": {
         "UD_Turkish-BOUN": 2
@@ -1950,57 +1749,36 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=düz": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=düzen": {
-        "UD_Turkish-BOUN": 16
-    },
-    "DerivedFrom=düzen|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 19
     },
     "DerivedFrom=düzey": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=düz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=düş": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=düşkün": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=düşkün|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=düşman": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=düş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=düşün": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=düşünce|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=düşün|SpaceAfter=No": {
+    "DerivedFrom=düşünce": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=düşür": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=dış": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=dışkı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=dışkı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=dış|SpaceAfter=No": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=e": {
@@ -2040,13 +1818,7 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=eksik": {
-        "UD_Turkish-BOUN": 10
-    },
-    "DerivedFrom=eksik|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=eksik|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 14
     },
     "DerivedFrom=el": {
         "UD_Turkish-BOUN": 3
@@ -2075,7 +1847,7 @@
     "DerivedFrom=emniyet": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=endişe|SpaceAfter=No": {
+    "DerivedFrom=endişe": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=engel": {
@@ -2109,7 +1881,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=etki": {
-        "UD_Turkish-BOUN": 11
+        "UD_Turkish-BOUN": 13
     },
     "DerivedFrom=etkile": {
         "UD_Turkish-BOUN": 2
@@ -2117,20 +1889,11 @@
     "DerivedFrom=etkin": {
         "UD_Turkish-BOUN": 14
     },
-    "DerivedFrom=etki|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=ev": {
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=evli": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=evli|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=evli|SpacesAfter=\\r\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=evren": {
         "UD_Turkish-BOUN": 4
@@ -2144,26 +1907,23 @@
     "DerivedFrom=ezik": {
         "UD_Turkish-BOUN": 1
     },
+    "DerivedFrom=eğil": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=eğilim": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=eğil|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=eğit": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=eğitim": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=eğit|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=eğlen": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=eş": {
-        "UD_Turkish-BOUN": 9
+        "UD_Turkish-BOUN": 11
     },
     "DerivedFrom=eşanlam": {
         "UD_Turkish-BOUN": 1
@@ -2180,9 +1940,6 @@
     "DerivedFrom=eşitsiz": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=eş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=fahişe": {
         "UD_Turkish-BOUN": 1
     },
@@ -2193,25 +1950,19 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=fark": {
-        "UD_Turkish-BOUN": 49
+        "UD_Turkish-BOUN": 55
     },
     "DerivedFrom=farklı": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=fark|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 4
-    },
     "DerivedFrom=farkında": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=fas|SpaceAfter=No": {
+    "DerivedFrom=fas": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=fayda": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=fayda|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=fazla": {
         "UD_Turkish-BOUN": 5
@@ -2220,10 +1971,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=fedakar": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=fedakar|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=fedakâr": {
         "UD_Turkish-BOUN": 1
@@ -2274,21 +2022,21 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=futbol": {
-        "UD_Turkish-BOUN": 8
+        "UD_Turkish-BOUN": 9
     },
-    "DerivedFrom=futbolcu|SpaceAfter=No": {
+    "DerivedFrom=futbolcu": {
+        "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=fır": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=fırsat": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=fırsatçı|SpaceAfter=No": {
+    "DerivedFrom=fırsatçı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=fırtına": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=fır|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=fıstık": {
@@ -2301,13 +2049,10 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=gazete": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=gazeteci": {
         "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=gazete|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=gebe": {
         "UD_Turkish-BOUN": 3
@@ -2322,13 +2067,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=geliş": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=geliş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=geliş|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=gemici": {
         "UD_Turkish-BOUN": 1
@@ -2343,28 +2082,19 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=geniş": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=geniş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=genç": {
-        "UD_Turkish-BOUN": 16
-    },
-    "DerivedFrom=genç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 17
     },
     "DerivedFrom=ger": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=gerek": {
-        "UD_Turkish-BOUN": 17
+        "UD_Turkish-BOUN": 21
     },
     "DerivedFrom=gereksin": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=gerek|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=geri": {
         "UD_Turkish-BOUN": 1
@@ -2372,17 +2102,8 @@
     "DerivedFrom=gerilim": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=ger|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=gerçek": {
-        "UD_Turkish-BOUN": 25
-    },
-    "DerivedFrom=gerçek|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 9
-    },
-    "DerivedFrom=gerçek|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 36
     },
     "DerivedFrom=gerçekçi": {
         "UD_Turkish-BOUN": 1
@@ -2414,23 +2135,17 @@
     "DerivedFrom=giy": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=giyim|SpaceAfter=No": {
+    "DerivedFrom=giyim": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=giyin": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=giz": {
-        "UD_Turkish-BOUN": 22
+        "UD_Turkish-BOUN": 25
     },
     "DerivedFrom=gizem": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=gizem|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=giz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=go": {
         "UD_Turkish-BOUN": 1
@@ -2441,7 +2156,7 @@
     "DerivedFrom=grev": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=grup|SpaceAfter=No": {
+    "DerivedFrom=grup": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=gö": {
@@ -2481,10 +2196,7 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=görüntü": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=görüntü|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=görünüm": {
         "UD_Turkish-BOUN": 1
@@ -2502,28 +2214,19 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=gösteriş": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=gösteriş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=gövde": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=göz": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 9
     },
-    "DerivedFrom=gözlem|SpaceAfter=No": {
+    "DerivedFrom=gözlem": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=gözlük": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=gözlük|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=göz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=göç": {
         "UD_Turkish-BOUN": 2
@@ -2531,13 +2234,13 @@
     "DerivedFrom=göçe": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=göğüs|SpaceAfter=No": {
+    "DerivedFrom=göğüs": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=gül": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=güleryüz|SpaceAfter=No": {
+    "DerivedFrom=güleryüz": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=gülistan": {
@@ -2562,49 +2265,31 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=güven": {
-        "UD_Turkish-BOUN": 22
+        "UD_Turkish-BOUN": 25
     },
     "DerivedFrom=güvenilir": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=güvenlik|SpaceAfter=No": {
+    "DerivedFrom=güvenlik": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=güvensiz": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=güvensiz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=güven|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=güzel": {
-        "UD_Turkish-BOUN": 10
-    },
-    "DerivedFrom=güzel|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=güzel|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 13
     },
     "DerivedFrom=güç": {
-        "UD_Turkish-BOUN": 27
+        "UD_Turkish-BOUN": 29
     },
-    "DerivedFrom=güçsüz|SpaceAfter=No": {
+    "DerivedFrom=güçsüz": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=güç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=ha": {
         "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=haber": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=haber|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=hafif": {
         "UD_Turkish-BOUN": 4
@@ -2613,21 +2298,18 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=hak": {
-        "UD_Turkish-BOUN": 19
+        "UD_Turkish-BOUN": 21
     },
     "DerivedFrom=haksız": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=hak|SpaceAfter=No": {
+    "DerivedFrom=halsiz": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=halsiz|SpaceAfter=No": {
+    "DerivedFrom=hamile": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=hamile|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=hantal|SpaceAfter=No": {
+    "DerivedFrom=hantal": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=hap": {
@@ -2642,7 +2324,7 @@
     "DerivedFrom=hareketli": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=harf|SpaceAfter=No": {
+    "DerivedFrom=harf": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=harç": {
@@ -2652,16 +2334,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=hasta": {
-        "UD_Turkish-BOUN": 22
+        "UD_Turkish-BOUN": 30
     },
-    "DerivedFrom=hastahane|nullcop=3s|SpaceAfter=No": {
+    "DerivedFrom=hastahane": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=hastalık": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=hasta|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=hata": {
         "UD_Turkish-BOUN": 2
@@ -2694,15 +2373,15 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=hazır": {
-        "UD_Turkish-BOUN": 23
+        "UD_Turkish-BOUN": 28
     },
-    "DerivedFrom=hazırla|SpaceAfter=No": {
+    "DerivedFrom=hazırla": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=hazır|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 4
-    },
     "DerivedFrom=haç": {
+        "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=hedef": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=hediye": {
@@ -2711,10 +2390,10 @@
     "DerivedFrom=hekim": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=hemşeri|SpaceAfter=No": {
+    "DerivedFrom=hemşeri": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=hesap|SpaceAfter=No": {
+    "DerivedFrom=hesap": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=heybet": {
@@ -2735,6 +2414,9 @@
     "DerivedFrom=hizmet": {
         "UD_Turkish-BOUN": 1
     },
+    "DerivedFrom=holding": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=hovarda": {
         "UD_Turkish-BOUN": 1
     },
@@ -2745,10 +2427,7 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=hukuk": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=hukuk|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=huy": {
         "UD_Turkish-BOUN": 1
@@ -2772,16 +2451,10 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=hırsız": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=hırsız|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=hız": {
-        "UD_Turkish-BOUN": 17
-    },
-    "DerivedFrom=hız|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 19
     },
     "DerivedFrom=i": {
         "UD_Turkish-BOUN": 1
@@ -2789,7 +2462,7 @@
     "DerivedFrom=ibadet": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=idare|SpaceAfter=No": {
+    "DerivedFrom=idare": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ihma": {
@@ -2804,7 +2477,7 @@
     "DerivedFrom=iki": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=ikircik|SpaceAfter=No": {
+    "DerivedFrom=ikircik": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=iktidarsız": {
@@ -2817,19 +2490,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ileri": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=ileri|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=ilet": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ilgi": {
-        "UD_Turkish-BOUN": 60
-    },
-    "DerivedFrom=ilgi|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 62
     },
     "DerivedFrom=ilim": {
         "UD_Turkish-BOUN": 1
@@ -2856,10 +2523,7 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=imkan": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=imkan|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=imkân": {
         "UD_Turkish-BOUN": 2
@@ -2871,7 +2535,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=imza": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=in": {
         "UD_Turkish-BOUN": 1
@@ -2879,29 +2543,23 @@
     "DerivedFrom=inan": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=inandırıcı|SpaceAfter=No": {
+    "DerivedFrom=inandırıcı": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=ince": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=incele": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=ince|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=insaf": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=insafsız|SpaceAfter=No": {
+    "DerivedFrom=insafsız": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=insan": {
-        "UD_Turkish-BOUN": 12
-    },
-    "DerivedFrom=insan|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 13
     },
     "DerivedFrom=ip": {
         "UD_Turkish-BOUN": 1
@@ -2915,7 +2573,7 @@
     "DerivedFrom=iri": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=irice|SpaceAfter=No": {
+    "DerivedFrom=irice": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=isa": {
@@ -2946,37 +2604,28 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=iyi": {
-        "UD_Turkish-BOUN": 31
+        "UD_Turkish-BOUN": 32
     },
     "DerivedFrom=iyimser": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=iyimser|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=iyi|SpaceAfter=No": {
+    "DerivedFrom=iz": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=izle": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=iz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=iç": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=içgüdü": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=içten|SpaceAfter=No": {
+    "DerivedFrom=içten": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=iç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=iş": {
-        "UD_Turkish-BOUN": 11
+        "UD_Turkish-BOUN": 13
     },
     "DerivedFrom=işletme": {
         "UD_Turkish-BOUN": 1
@@ -2985,18 +2634,15 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=işsiz": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=işsiz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=iş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=işçi": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=jeton": {
+        "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=jurnal": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=k": {
@@ -3006,15 +2652,12 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kaba": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kabahat": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kabak": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=kaba|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kabuk": {
@@ -3033,7 +2676,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kal": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kalaba": {
         "UD_Turkish-BOUN": 2
@@ -3042,16 +2685,10 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kale": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=kale|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kalite": {
         "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=kal|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kalın": {
         "UD_Turkish-BOUN": 2
@@ -3071,23 +2708,20 @@
     "DerivedFrom=kanalizasyon": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kanıt|SpaceAfter=No": {
+    "DerivedFrom=kanıt": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kap": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kapa": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=kapak": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kapasite": {
         "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=kapa|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kapris": {
         "UD_Turkish-BOUN": 2
@@ -3111,73 +2745,49 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=karan": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=karan|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=karar": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=kararlı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=kararlı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=karar|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=kardeş": {
         "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=kare|SpaceAfter=No": {
+    "DerivedFrom=kare": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kariyer": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=karmaşık|SpaceAfter=No": {
+    "DerivedFrom=karmaşık": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kart": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=karış": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=karış|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=karışık": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=karışık|nullcop=3p|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=karşı": {
-        "UD_Turkish-BOUN": 15
+        "UD_Turkish-BOUN": 17
     },
     "DerivedFrom=karşılık": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=karşılık|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=karşıt": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=karşı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=kasvet": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kat": {
-        "UD_Turkish-BOUN": 11
-    },
-    "DerivedFrom=kat|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 15
     },
     "DerivedFrom=katıl": {
         "UD_Turkish-BOUN": 4
@@ -3195,15 +2805,12 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kayıt": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=kayıt|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kazı": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kazıbilim|SpaceAfter=No": {
+    "DerivedFrom=kazıbilim": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kaçak": {
@@ -3245,7 +2852,7 @@
     "DerivedFrom=kesin": {
         "UD_Turkish-BOUN": 8
     },
-    "DerivedFrom=kesinti|SpaceAfter=No": {
+    "DerivedFrom=kesinti": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=keskinleştir": {
@@ -3258,10 +2865,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=keyif": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=keyif|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=kibar": {
         "UD_Turkish-BOUN": 1
@@ -3270,7 +2874,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kim": {
-        "UD_Turkish-BOUN": 20
+        "UD_Turkish-BOUN": 22
     },
     "DerivedFrom=kimliksiz": {
         "UD_Turkish-BOUN": 1
@@ -3281,38 +2885,26 @@
     "DerivedFrom=kimya": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=kim|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=kir": {
-        "UD_Turkish-BOUN": 6
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=kira": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=kira|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kirli": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=kir|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=kitap|SpaceAfter=No": {
+    "DerivedFrom=kitap": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=kitle": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kitlesel|SpaceAfter=No": {
+    "DerivedFrom=kitlesel": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kişi": {
-        "UD_Turkish-BOUN": 34
-    },
-    "DerivedFrom=kişi|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 6
+        "UD_Turkish-BOUN": 40
     },
     "DerivedFrom=klor": {
         "UD_Turkish-BOUN": 1
@@ -3324,19 +2916,16 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kok": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=koku": {
         "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=kok|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kol": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=kolay": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=kolaycı": {
         "UD_Turkish-BOUN": 2
@@ -3344,10 +2933,7 @@
     "DerivedFrom=kolaylık": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kolay|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=koleksiyon|SpaceAfter=No": {
+    "DerivedFrom=koleksiyon": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kolestero": {
@@ -3387,7 +2973,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=konuş": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=koordinatör": {
         "UD_Turkish-BOUN": 1
@@ -3401,16 +2987,13 @@
     "DerivedFrom=korku": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=korsan|SpaceAfter=No": {
+    "DerivedFrom=korsan": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=koru": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=korunak": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=koru|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kra": {
@@ -3420,37 +3003,28 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=krem": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=krema": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=krem|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kristal": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kucak|SpaceAfter=No": {
+    "DerivedFrom=kucak": {
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kuduz": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kulak": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=kulak|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kule": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kullan": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=kullan|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=kullanış": {
         "UD_Turkish-BOUN": 1
@@ -3470,14 +3044,11 @@
     "DerivedFrom=kura": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kurak|SpaceAfter=No": {
+    "DerivedFrom=kurak": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kural": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=kural|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kuram": {
         "UD_Turkish-BOUN": 1
@@ -3507,22 +3078,16 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kutla": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=kutlamış|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=kutla|SpaceAfter=No": {
+    "DerivedFrom=kutlamış": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kutsal": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=kutup": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=kutup|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=kuvvet": {
         "UD_Turkish-BOUN": 4
@@ -3537,7 +3102,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kuşku": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=köfte": {
         "UD_Turkish-BOUN": 1
@@ -3551,7 +3116,7 @@
     "DerivedFrom=köken": {
         "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=kökten|SpaceAfter=No": {
+    "DerivedFrom=kökten": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=köle": {
@@ -3567,10 +3132,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kötü": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=kötü|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=köy": {
         "UD_Turkish-BOUN": 6
@@ -3590,17 +3152,14 @@
     "DerivedFrom=küme": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=küre|SpaceAfter=No": {
+    "DerivedFrom=küre": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=küstah": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=küçük": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=küçük|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=kılık": {
         "UD_Turkish-BOUN": 1
@@ -3608,38 +3167,29 @@
     "DerivedFrom=kına": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kıpırtı|SpaceAfter=No": {
+    "DerivedFrom=kıpırtı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kır": {
         "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=kırgın|SpaceAfter=No": {
+    "DerivedFrom=kırgın": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kırmızı": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 5
     },
-    "DerivedFrom=kırmızı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=kırçıl|SpaceAfter=No": {
+    "DerivedFrom=kırçıl": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kırık": {
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kısa": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=kısa|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kıskanç": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=kıskanç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=kısım": {
         "UD_Turkish-BOUN": 2
@@ -3653,10 +3203,10 @@
     "DerivedFrom=kıt": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kıvanç|SpaceAfter=No": {
+    "DerivedFrom=kıvanç": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kıvılcım|SpaceAfter=No": {
+    "DerivedFrom=kıvılcım": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=kıyas": {
@@ -3666,34 +3216,25 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=kız": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=kızgın": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=kız|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
-    },
     "DerivedFrom=kış": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=kışkırt|SpaceAfter=No": {
+    "DerivedFrom=kışkırt": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=labirent": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=lacivert": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=lacivert|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=laik": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=laik|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=lanet": {
         "UD_Turkish-BOUN": 1
@@ -3702,10 +3243,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=lezzet": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=lezzet|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=lider": {
         "UD_Turkish-BOUN": 1
@@ -3716,7 +3254,7 @@
     "DerivedFrom=lise": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=lobi|SpaceAfter=No": {
+    "DerivedFrom=lobi": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=lüzum": {
@@ -3747,16 +3285,10 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=mantık": {
-        "UD_Turkish-BOUN": 7
-    },
-    "DerivedFrom=mantık|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=manzara": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=manzara|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=mark": {
         "UD_Turkish-BOUN": 1
@@ -3809,7 +3341,7 @@
     "DerivedFrom=mendi": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=meneviş|SpaceAfter=No": {
+    "DerivedFrom=meneviş": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=merak": {
@@ -3846,7 +3378,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=mezar": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=mezarlık": {
         "UD_Turkish-BOUN": 1
@@ -3861,16 +3393,10 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=milliyet": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=milliyet|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=milliyetçi": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=milliyetçi|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=milyar": {
         "UD_Turkish-BOUN": 2
@@ -3881,13 +3407,13 @@
     "DerivedFrom=mimar": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=minik|SpaceAfter=No": {
+    "DerivedFrom=minik": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=misa": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=mizah|SpaceAfter=No": {
+    "DerivedFrom=mizah": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=mizaç": {
@@ -3909,10 +3435,7 @@
         "UD_Turkish-BOUN": 33
     },
     "DerivedFrom=mutlu": {
-        "UD_Turkish-BOUN": 16
-    },
-    "DerivedFrom=mutlu|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 17
     },
     "DerivedFrom=mutluü": {
         "UD_Turkish-BOUN": 1
@@ -3920,7 +3443,7 @@
     "DerivedFrom=mutsuz": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=muştu|SpaceAfter=No": {
+    "DerivedFrom=muştu": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=mücadele": {
@@ -3974,7 +3497,7 @@
     "DerivedFrom=nakliye": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=nalbur|SpaceAfter=No": {
+    "DerivedFrom=nalbur": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=naz": {
@@ -3984,13 +3507,10 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=nem": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=nema": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=nema|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=nemlendir": {
         "UD_Turkish-BOUN": 1
@@ -4005,10 +3525,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=neşe": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=neşe|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=nite": {
         "UD_Turkish-BOUN": 1
@@ -4022,14 +3539,11 @@
     "DerivedFrom=no": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=noksan|SpaceAfter=No": {
+    "DerivedFrom=noksan": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=nokta": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=nokta|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=numara": {
         "UD_Turkish-BOUN": 3
@@ -4056,13 +3570,10 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=oda": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=odak": {
         "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=oda|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=odun": {
         "UD_Turkish-BOUN": 2
@@ -4077,10 +3588,7 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=olanak": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=olanak|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=olası": {
         "UD_Turkish-BOUN": 4
@@ -4098,52 +3606,40 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=olum": {
-        "UD_Turkish-BOUN": 18
+        "UD_Turkish-BOUN": 20
     },
     "DerivedFrom=olumsuz": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=olum|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=olum|SpacesAfter=\\n": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=oluşturulma": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=onar|SpaceAfter=No": {
+    "DerivedFrom=onar": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=onay|SpaceAfter=No": {
+    "DerivedFrom=onay": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=onur": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=ora|SpaceAfter=No": {
+    "DerivedFrom=ora": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=organizasyon": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=orta": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=ortak": {
         "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=orta|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=oruç": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=otel": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=otel|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=otomobi": {
         "UD_Turkish-BOUN": 1
@@ -4158,22 +3654,16 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=oyun": {
-        "UD_Turkish-BOUN": 18
+        "UD_Turkish-BOUN": 25
     },
     "DerivedFrom=oyuncu": {
         "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=oyun|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=oğ": {
         "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=paha": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=paha|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=palto": {
         "UD_Turkish-BOUN": 1
@@ -4218,15 +3708,12 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=pembe": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=pembe|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=perva": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=pervasız|SpaceAfter=No": {
+    "DerivedFrom=pervasız": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=peygamber": {
@@ -4245,10 +3732,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=plan": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=plan|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=politika": {
         "UD_Turkish-BOUN": 3
@@ -4256,7 +3740,7 @@
     "DerivedFrom=posta": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=poşet|SpaceAfter=No": {
+    "DerivedFrom=poşet": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=profesyonel": {
@@ -4271,7 +3755,7 @@
     "DerivedFrom=puan": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=pul|SpaceAfter=No": {
+    "DerivedFrom=pul": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=pus": {
@@ -4281,22 +3765,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=rahat": {
-        "UD_Turkish-BOUN": 14
+        "UD_Turkish-BOUN": 17
     },
-    "DerivedFrom=rahatlık|SpaceAfter=No": {
+    "DerivedFrom=rahatlık": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=rahatsız": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=rahatsız|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=rahat|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=rahat|nullcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=rahmet": {
         "UD_Turkish-BOUN": 4
@@ -4304,7 +3779,7 @@
     "DerivedFrom=rakım": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=raslantı|SpaceAfter=No": {
+    "DerivedFrom=raslantı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=rastlantısal": {
@@ -4323,36 +3798,27 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=renk": {
-        "UD_Turkish-BOUN": 14
+        "UD_Turkish-BOUN": 16
     },
-    "DerivedFrom=renkli|SpaceAfter=No": {
+    "DerivedFrom=renkli": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=renk|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=resim": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=resim|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=reyting": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=rezil|SpaceAfter=No": {
+    "DerivedFrom=rezil": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ro": {
         "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=roman": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=romancı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=roman|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ruh": {
@@ -4377,7 +3843,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sabır": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=sade": {
         "UD_Turkish-BOUN": 1
@@ -4391,23 +3857,17 @@
     "DerivedFrom=sahte": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=sahteci|SpaceAfter=No": {
+    "DerivedFrom=sahteci": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sak": {
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=sakal": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=sakal|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=sakat": {
         "UD_Turkish-BOUN": 5
     },
-    "DerivedFrom=sakat|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+    "DerivedFrom=sakat": {
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=sakin": {
         "UD_Turkish-BOUN": 1
@@ -4415,13 +3875,13 @@
     "DerivedFrom=saksafon": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=saksofon|SpaceAfter=No": {
+    "DerivedFrom=saksofon": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=saldır": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=saldır|SpaceAfter=No": {
+    "DerivedFrom=saldırgan": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=salça": {
@@ -4434,16 +3894,10 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=sanat": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=sanat|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 11
     },
     "DerivedFrom=sanayi": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=sanayi|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=sancı": {
         "UD_Turkish-BOUN": 2
@@ -4470,10 +3924,10 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=savaş": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=savaş|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+    "DerivedFrom=savcı": {
+        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=savun": {
         "UD_Turkish-BOUN": 2
@@ -4482,19 +3936,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=say": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=saygı": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=saygısız": {
         "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=saygı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=say|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sayı": {
         "UD_Turkish-BOUN": 5
@@ -4503,10 +3951,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=saç": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=saç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=sağ": {
         "UD_Turkish-BOUN": 19
@@ -4526,7 +3971,7 @@
     "DerivedFrom=sağlık": {
         "UD_Turkish-BOUN": 8
     },
-    "DerivedFrom=sağır|SpaceAfter=No": {
+    "DerivedFrom=sağır": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=se": {
@@ -4541,7 +3986,7 @@
     "DerivedFrom=sektör": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=selam|SpaceAfter=No": {
+    "DerivedFrom=selam": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sembol": {
@@ -4556,44 +4001,32 @@
     "DerivedFrom=sendika": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=sergi": {
+    "DerivedFrom=ser": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=sergi|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+    "DerivedFrom=sergi": {
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=sergüzeşt": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=serin": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=serin|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=sert": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=sert|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=ser|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=ses": {
-        "UD_Turkish-BOUN": 9
+        "UD_Turkish-BOUN": 12
     },
     "DerivedFrom=sessiz": {
-        "UD_Turkish-BOUN": 7
-    },
-    "DerivedFrom=sessiz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=ses|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=sev": {
         "UD_Turkish-BOUN": 7
+    },
+    "DerivedFrom=sevda": {
+        "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=seven": {
         "UD_Turkish-BOUN": 1
@@ -4604,7 +4037,7 @@
     "DerivedFrom=sevgili": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=sevgisiz|SpacesAfter=\\n": {
+    "DerivedFrom=sevgisiz": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sevim": {
@@ -4617,19 +4050,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=seyir": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=seyir|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=sezgi": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=seç": {
-        "UD_Turkish-BOUN": 7
-    },
-    "DerivedFrom=seç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=si": {
         "UD_Turkish-BOUN": 1
@@ -4644,7 +4071,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=simge": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=sinema": {
         "UD_Turkish-BOUN": 1
@@ -4682,13 +4109,13 @@
     "DerivedFrom=sol": {
         "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=solu|SpaceAfter=No": {
+    "DerivedFrom=solu": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=somurtkan|SpaceAfter=No|typo=yes": {
+    "DerivedFrom=somurtkan": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=somut|SpaceAfter=No": {
+    "DerivedFrom=somut": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=son": {
@@ -4704,19 +4131,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sorgu": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=sorgu|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=sorum": {
         "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=sorumlu": {
-        "UD_Turkish-BOUN": 13
-    },
-    "DerivedFrom=sorumlu|nullcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 14
     },
     "DerivedFrom=sorun": {
         "UD_Turkish-BOUN": 1
@@ -4730,16 +4151,13 @@
     "DerivedFrom=sosyoloji": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=sote|SpaceAfter=No": {
+    "DerivedFrom=sote": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=soy": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
-    "DerivedFrom=soylu|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=soy|SpaceAfter=No": {
+    "DerivedFrom=soylu": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=soğan": {
@@ -4748,23 +4166,20 @@
     "DerivedFrom=soğuk": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=soğukkanlı|SpaceAfter=No": {
+    "DerivedFrom=soğukkanlı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sponsor": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=spor": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=spor|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=strateji": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=su": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=sua": {
         "UD_Turkish-BOUN": 1
@@ -4775,26 +4190,20 @@
     "DerivedFrom=sun": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=sunucu|SpaceAfter=No": {
+    "DerivedFrom=sunucu": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=surat|SpaceAfter=No": {
+    "DerivedFrom=surat": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sus": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=susam": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=sus|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=su|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=suç": {
-        "UD_Turkish-BOUN": 10
+        "UD_Turkish-BOUN": 12
     },
     "DerivedFrom=suçlu": {
         "UD_Turkish-BOUN": 2
@@ -4806,7 +4215,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=söz": {
-        "UD_Turkish-BOUN": 11
+        "UD_Turkish-BOUN": 12
     },
     "DerivedFrom=sözcü": {
         "UD_Turkish-BOUN": 1
@@ -4815,9 +4224,6 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sözleşme": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=söz|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sübyan": {
@@ -4833,37 +4239,25 @@
         "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=sürek": {
-        "UD_Turkish-BOUN": 22
+        "UD_Turkish-BOUN": 23
     },
     "DerivedFrom=sürekli": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=sürek|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=süs": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=süs|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=süt": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=sıcak": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=sıcak|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 11
     },
     "DerivedFrom=sıfır": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=sık": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=sık|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 9
     },
     "DerivedFrom=sıkı": {
         "UD_Turkish-BOUN": 2
@@ -4875,19 +4269,13 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=sınıf": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=sınıf|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=sınır": {
-        "UD_Turkish-BOUN": 8
+        "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=sınırlandır": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=sınır|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=sır": {
         "UD_Turkish-BOUN": 1
@@ -4923,18 +4311,9 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=tamam": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=tamamla": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=tamam|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=tamam|mod=deon": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=tamam|mod=dyn": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=tanrı": {
@@ -4947,22 +4326,16 @@
         "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=tanım": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=tanım|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=tanım|mod=dyn": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=tanışık|SpaceAfter=No": {
+    "DerivedFrom=tanışık": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=tapın": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=taraf": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=tarafsız": {
         "UD_Turkish-BOUN": 1
@@ -4970,26 +4343,17 @@
     "DerivedFrom=taraftar": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=taraf|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=tarif": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=tarih": {
-        "UD_Turkish-BOUN": 10
-    },
-    "DerivedFrom=tarih|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 11
     },
     "DerivedFrom=tartış": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=tartışma": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=tartışma|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=tarım": {
         "UD_Turkish-BOUN": 2
@@ -4998,13 +4362,10 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=tat": {
-        "UD_Turkish-BOUN": 21
+        "UD_Turkish-BOUN": 24
     },
-    "DerivedFrom=tatsız|SpaceAfter=No": {
+    "DerivedFrom=tatsız": {
         "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=tat|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=taze": {
         "UD_Turkish-BOUN": 1
@@ -5036,7 +4397,7 @@
     "DerivedFrom=tel": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=telaş|nullcop=3p|SpaceAfter=No": {
+    "DerivedFrom=telaş": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=telefon": {
@@ -5046,39 +4407,30 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=temiz": {
-        "UD_Turkish-BOUN": 6
-    },
-    "DerivedFrom=temiz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 9
     },
     "DerivedFrom=temsil": {
-        "UD_Turkish-BOUN": 6
-    },
-    "DerivedFrom=temsil|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=ten": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=tepki": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=tepki|SpaceAfter=No": {
+    "DerivedFrom=ter": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=tercüman": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=terlet|SpaceAfter=No": {
+    "DerivedFrom=terlet": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ters": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=tertip": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=ter|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=terör": {
@@ -5100,7 +4452,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=titiz": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=titre": {
         "UD_Turkish-BOUN": 1
@@ -5118,16 +4470,10 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=toplu": {
-        "UD_Turkish-BOUN": 7
-    },
-    "DerivedFrom=toplum": {
         "UD_Turkish-BOUN": 8
     },
-    "DerivedFrom=toplum|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=toplu|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+    "DerivedFrom=toplum": {
+        "UD_Turkish-BOUN": 9
     },
     "DerivedFrom=trilyon": {
         "UD_Turkish-BOUN": 1
@@ -5154,27 +4500,21 @@
         "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=tüket": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=tüketici": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=tüket|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=tür": {
-        "UD_Turkish-BOUN": 32
+        "UD_Turkish-BOUN": 33
     },
     "DerivedFrom=türban": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=tür|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=tırtık": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=ucuz|SpaceAfter=No": {
+    "DerivedFrom=ucuz": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ufak": {
@@ -5220,10 +4560,7 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=uygar": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=uygar|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=uygula": {
         "UD_Turkish-BOUN": 6
@@ -5244,16 +4581,13 @@
         "UD_Turkish-BOUN": 9
     },
     "DerivedFrom=uyuştur": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=uyuşturucu": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=uyuştur|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=uzak": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=uzay": {
         "UD_Turkish-BOUN": 1
@@ -5262,25 +4596,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=uzun": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=uzun|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=uzun|nullcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=uç": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=uç|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=uğur": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=uğur|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+    "DerivedFrom=uç": {
+        "UD_Turkish-BOUN": 3
+    },
+    "DerivedFrom=uğur": {
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=vade": {
         "UD_Turkish-BOUN": 5
@@ -5289,10 +4611,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=vali": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=vali|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=valör": {
         "UD_Turkish-BOUN": 1
@@ -5301,18 +4620,9 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=var": {
-        "UD_Turkish-BOUN": 13
+        "UD_Turkish-BOUN": 18
     },
     "DerivedFrom=varlık": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=var|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=var|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=var|typo=yes": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=vatan": {
@@ -5321,28 +4631,25 @@
     "DerivedFrom=vatandaş": {
         "UD_Turkish-BOUN": 4
     },
+    "DerivedFrom=vefa": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=vekil": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ver": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=verim": {
-        "UD_Turkish-BOUN": 7
-    },
-    "DerivedFrom=verimli|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=verim|SpaceAfter=No": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=ver|nullcop=3s": {
+    "DerivedFrom=verim": {
+        "UD_Turkish-BOUN": 10
+    },
+    "DerivedFrom=verimli": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=vesika": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=vitrin|SpaceAfter=No": {
+    "DerivedFrom=vitrin": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=voka": {
@@ -5352,10 +4659,7 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=vurgu": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=vurgu|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=vücut": {
         "UD_Turkish-BOUN": 1
@@ -5382,18 +4686,15 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yalan": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yalnız": {
-        "UD_Turkish-BOUN": 16
-    },
-    "DerivedFrom=yalnız|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 20
     },
     "DerivedFrom=yalvar": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=yalınkat|SpaceAfter=No": {
+    "DerivedFrom=yalınkat": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yan": {
@@ -5406,10 +4707,10 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yanıt": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yap": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=yapağı": {
         "UD_Turkish-BOUN": 1
@@ -5417,13 +4718,10 @@
     "DerivedFrom=yapma": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=yaprak|SpaceAfter=No": {
+    "DerivedFrom=yaprak": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yaptır": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yap|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yapı": {
@@ -5436,40 +4734,22 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yara": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=yarar": {
-        "UD_Turkish-BOUN": 6
-    },
-    "DerivedFrom=yarar|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=yarat": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=yarat|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=yaratıcı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yaratıcı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=yara|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=yardım": {
-        "UD_Turkish-BOUN": 19
-    },
-    "DerivedFrom=yardım|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 20
     },
     "DerivedFrom=yargı": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=yargı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=yarın": {
         "UD_Turkish-BOUN": 1
@@ -5499,21 +4779,15 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yayın": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 10
     },
-    "DerivedFrom=yayıncı|SpaceAfter=No": {
+    "DerivedFrom=yayıncı": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=yayın|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=yaz": {
-        "UD_Turkish-BOUN": 6
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=yazar": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=yaz|SpaceAfter=No": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yazı": {
@@ -5522,19 +4796,16 @@
     "DerivedFrom=yağ": {
         "UD_Turkish-BOUN": 9
     },
-    "DerivedFrom=yağmur|SpaceAfter=No": {
+    "DerivedFrom=yağmur": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yaş": {
-        "UD_Turkish-BOUN": 21
+        "UD_Turkish-BOUN": 22
     },
     "DerivedFrom=yaşa": {
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=yaşam": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yaş|nullcop=3s": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yedek": {
@@ -5544,16 +4815,13 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yelken": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yelken|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yemek": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yeni": {
-        "UD_Turkish-BOUN": 6
+        "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=yenil": {
         "UD_Turkish-BOUN": 3
@@ -5561,22 +4829,16 @@
     "DerivedFrom=yenilik": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=yeni|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
     "DerivedFrom=yer": {
-        "UD_Turkish-BOUN": 12
+        "UD_Turkish-BOUN": 13
     },
-    "DerivedFrom=yerel|SpacesAfter=\\n": {
+    "DerivedFrom=yerel": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yerleşim": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yerli": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yer|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yetenek": {
@@ -5589,40 +4851,28 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yetersiz": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=yetersiz|SpaceAfter=No": {
+    "DerivedFrom=yetiş": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yetişkin": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yetki": {
-        "UD_Turkish-BOUN": 11
+        "UD_Turkish-BOUN": 16
     },
     "DerivedFrom=yetkili": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=yetki|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 5
-    },
     "DerivedFrom=yeşil": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 7
     },
-    "DerivedFrom=yeşil|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=yeşil|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yine|SpaceAfter=No": {
+    "DerivedFrom=yine": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yiğit": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yiğit|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yo": {
         "UD_Turkish-BOUN": 6
@@ -5640,37 +4890,22 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yol": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=yolcu": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=yolcu|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=yolcu|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 11
     },
     "DerivedFrom=yolsuz": {
         "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=yol|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=yor": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yorgun": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=yorgun|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=yorum": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=yorum|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=yoğun": {
         "UD_Turkish-BOUN": 1
@@ -5699,23 +4934,20 @@
     "DerivedFrom=yurt": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=yuvarlak|SpaceAfter=No": {
+    "DerivedFrom=yuvarlak": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yön": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=yöne": {
         "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=yönel": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=yönel|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=yönet": {
-        "UD_Turkish-BOUN": 11
+        "UD_Turkish-BOUN": 12
     },
     "DerivedFrom=yönetme": {
         "UD_Turkish-BOUN": 1
@@ -5723,35 +4955,20 @@
     "DerivedFrom=yönetmen": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=yönet|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yön|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=yüce": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yüce|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yük": {
         "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=yüksek": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=yüksek|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=yüküm": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yükümlü": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yükümlü|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=yün": {
         "UD_Turkish-BOUN": 1
@@ -5760,21 +4977,18 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yürü": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=yürür": {
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=yüz": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=yüzeysel": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yüzyıl": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=yüz|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=yı": {
@@ -5792,29 +5006,29 @@
     "DerivedFrom=yırt": {
         "UD_Turkish-BOUN": 1
     },
+    "DerivedFrom=yığ": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=yığı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=zafer": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=zahmet|SpaceAfter=No": {
+    "DerivedFrom=zahmet": {
+        "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=zam": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=zaman": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=zam|SpacesAfter=\\n": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=zan": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=zarar": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=zarar|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=zarif": {
         "UD_Turkish-BOUN": 1
@@ -5823,16 +5037,10 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=zayıf": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=zayıf|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=zehir": {
-        "UD_Turkish-BOUN": 6
-    },
-    "DerivedFrom=zehir|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=zeki": {
         "UD_Turkish-BOUN": 1
@@ -5841,19 +5049,19 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=zengin": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
-    "DerivedFrom=zengin|SpacesAfter=\\n": {
+    "DerivedFrom=zevk": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=zihin": {
         "UD_Turkish-BOUN": 2
     },
-    "DerivedFrom=ziyaret|SpaceAfter=No": {
+    "DerivedFrom=ziyaret": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=zor": {
-        "UD_Turkish-BOUN": 16
+        "UD_Turkish-BOUN": 18
     },
     "DerivedFrom=zorba": {
         "UD_Turkish-BOUN": 1
@@ -5862,13 +5070,7 @@
         "UD_Turkish-BOUN": 8
     },
     "DerivedFrom=zorunlu": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=zorunlu|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=zor|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=Çaye": {
         "UD_Turkish-BOUN": 1
@@ -5883,10 +5085,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=Çin": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=Çin|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=Çorum": {
         "UD_Turkish-BOUN": 1
@@ -5927,26 +5126,20 @@
     "DerivedFrom=çalış": {
         "UD_Turkish-BOUN": 12
     },
-    "DerivedFrom=çalışkan|SpaceAfter=No": {
+    "DerivedFrom=çalışkan": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=çap": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=çare": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=çaresiz": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=çaresiz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=çarp": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=çarp|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=çatış": {
         "UD_Turkish-BOUN": 1
@@ -5967,12 +5160,12 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=çek": {
-        "UD_Turkish-BOUN": 6
+        "UD_Turkish-BOUN": 7
     },
-    "DerivedFrom=çekici|SpaceAfter=No": {
+    "DerivedFrom=çekici": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=çekingen|SpaceAfter=No": {
+    "DerivedFrom=çekingen": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=çekinmeme": {
@@ -5984,28 +5177,28 @@
     "DerivedFrom=çekişme": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=çek|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=çelim": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=çeliş": {
         "UD_Turkish-BOUN": 1
     },
+    "DerivedFrom=çengel": {
+        "UD_Turkish-BOUN": 1
+    },
+    "DerivedFrom=çevir": {
+        "UD_Turkish-BOUN": 1
+    },
     "DerivedFrom=çeşit": {
         "UD_Turkish-BOUN": 35
     },
     "DerivedFrom=çeşitli": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=çeşitli|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=çift": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=çiftdilli|SpaceAfter=No": {
+    "DerivedFrom=çiftdilli": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=çiftkültürlü": {
@@ -6021,16 +5214,10 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=çizgi": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=çizgi|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=çocuk": {
-        "UD_Turkish-BOUN": 12
-    },
-    "DerivedFrom=çocuk|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 15
     },
     "DerivedFrom=çok": {
         "UD_Turkish-BOUN": 1
@@ -6084,10 +5271,7 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=öl": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=öl|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=ölç": {
         "UD_Turkish-BOUN": 1
@@ -6095,38 +5279,26 @@
     "DerivedFrom=ölüm": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=ölümsüz|SpacesAfter=\\n": {
+    "DerivedFrom=ölümsüz": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ön": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 6
     },
     "DerivedFrom=önce": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=öncelik": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=önce|nullcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=öncü": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=öncü|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=önder": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=önem": {
-        "UD_Turkish-BOUN": 65
-    },
-    "DerivedFrom=önem|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=ön|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 70
     },
     "DerivedFrom=öp": {
         "UD_Turkish-BOUN": 1
@@ -6141,54 +5313,33 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=özel": {
-        "UD_Turkish-BOUN": 19
+        "UD_Turkish-BOUN": 25
     },
     "DerivedFrom=özellik": {
         "UD_Turkish-BOUN": 3
     },
-    "DerivedFrom=özel|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 4
-    },
-    "DerivedFrom=özel|SpacesAfter=\\r\\n": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=özel|nullcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
     "DerivedFrom=özen": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=özet|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+    "DerivedFrom=özet": {
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=özgün": {
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=özgür": {
-        "UD_Turkish-BOUN": 9
-    },
-    "DerivedFrom=özgür|nullcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 10
     },
     "DerivedFrom=özür": {
-        "UD_Turkish-BOUN": 3
-    },
-    "DerivedFrom=özür|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=öğren": {
-        "UD_Turkish-BOUN": 11
-    },
-    "DerivedFrom=öğren|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 12
     },
     "DerivedFrom=öğret": {
-        "UD_Turkish-BOUN": 3
+        "UD_Turkish-BOUN": 4
     },
     "DerivedFrom=öğretmen": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=öğret|SpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=öğür": {
@@ -6207,10 +5358,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=üret": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=üret|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=ürküt": {
         "UD_Turkish-BOUN": 1
@@ -6219,10 +5367,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=üye": {
-        "UD_Turkish-BOUN": 5
-    },
-    "DerivedFrom=üye|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 7
     },
     "DerivedFrom=üz": {
         "UD_Turkish-BOUN": 1
@@ -6243,10 +5388,7 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=İngiliz": {
-        "UD_Turkish-BOUN": 8
-    },
-    "DerivedFrom=İngiliz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 9
     },
     "DerivedFrom=İnsanoğ": {
         "UD_Turkish-BOUN": 1
@@ -6261,13 +5403,10 @@
         "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=İstanbul": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=İtalyan": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=İtalyan|true=İtalyancalarına|typo=yes": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=İzmir": {
         "UD_Turkish-BOUN": 1
@@ -6287,14 +5426,11 @@
     "DerivedFrom=ısı": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=ısır|SpaceAfter=No": {
+    "DerivedFrom=ısır": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=ışık": {
-        "UD_Turkish-BOUN": 1
-    },
-    "DerivedFrom=ışık|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=ışıltı": {
         "UD_Turkish-BOUN": 1
@@ -6314,13 +5450,13 @@
     "DerivedFrom=Şiddet": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=şahit|SpaceAfter=No": {
+    "DerivedFrom=şahit": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=şaka|SpaceAfter=No": {
+    "DerivedFrom=şaka": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=şaklaban|SpaceAfter=No": {
+    "DerivedFrom=şaklaban": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=şalvar": {
@@ -6339,13 +5475,10 @@
         "UD_Turkish-BOUN": 2
     },
     "DerivedFrom=şarkı": {
-        "UD_Turkish-BOUN": 2
-    },
-    "DerivedFrom=şarkı|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=şart": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-BOUN": 3
     },
     "DerivedFrom=şaşkın": {
         "UD_Turkish-BOUN": 4
@@ -6411,12 +5544,12 @@
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=şüphe": {
-        "UD_Turkish-BOUN": 4
+        "UD_Turkish-BOUN": 5
     },
     "DerivedFrom=şüpheli": {
         "UD_Turkish-BOUN": 1
     },
-    "DerivedFrom=şüphe|SpaceAfter=No": {
+    "DerivedFrom=şıfrıntı": {
         "UD_Turkish-BOUN": 1
     },
     "DerivedFrom=şımarık": {
@@ -6426,289 +5559,22 @@
         "UD_Turkish-GB": 5
     },
     "Proper=True": {
-        "UD_Turkish-PUD": 1769
-    },
-    "Proper=True|SpaceAfter=No": {
-        "UD_Turkish-PUD": 247
-    },
-    "Proper=True|ToDo=ex-adp-child": {
-        "UD_Turkish-PUD": 1
-    },
-    "Proper=True|ToDo=nmod": {
-        "UD_Turkish-PUD": 14
+        "UD_Turkish-PUD": 2037
     },
     "SpaceAfter=No": {
-        "UD_Turkish-BOUN": 19920,
-        "UD_Turkish-GB": 2705,
+        "UD_Turkish-BOUN": 20812,
+        "UD_Turkish-GB": 2707,
         "UD_Turkish-IMST": 10115,
-        "UD_Turkish-PUD": 1928
-    },
-    "SpaceAfter=No|DerivedFrom=Amerikan": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=ak": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=akıl": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=algı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=araştır": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=aşağı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=aşırı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=bağış": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=bir": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=cambaz": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=damga": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=eksik": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=eğitim": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=fark|nullcop=3s": {
-        "UD_Turkish-BOUN": 2
-    },
-    "SpaceAfter=No|DerivedFrom=futbol": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=gerçek": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=giz": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=giz|mod=dyn": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=göz": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=hak": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=hasta": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=hazır": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=hedef": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=holding": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=hız": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=imza": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=iş": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=jurnal": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=karar": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=konuş": {
-        "UD_Turkish-BOUN": 2
-    },
-    "SpaceAfter=No|DerivedFrom=kuşku": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=lacivert": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=mezar": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=nem": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=oyun": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=rahat": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=sabır": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=saldırgan": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=savcı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=sergi": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=ses": {
-        "UD_Turkish-BOUN": 2
-    },
-    "SpaceAfter=No|DerivedFrom=sevda|nullcop=3p": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=simge": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=su": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=suç": {
-        "UD_Turkish-BOUN": 2
-    },
-    "SpaceAfter=No|DerivedFrom=sıcak": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=taraf": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=tartış": {
-        "UD_Turkish-BOUN": 2
-    },
-    "SpaceAfter=No|DerivedFrom=tat|nullcop=3s": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=titiz": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=uzak": {
-        "UD_Turkish-BOUN": 2
-    },
-    "SpaceAfter=No|DerivedFrom=var": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=vefa": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=vurgu": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yalan": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yanıt": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yara": {
-        "UD_Turkish-BOUN": 2
-    },
-    "SpaceAfter=No|DerivedFrom=yarat": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yayın": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yetiş": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yol": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yorgun": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yürü": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=yığ": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=zevk": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=çare|nullcop=3p": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=çevir|nullcop=3s": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=çocuk": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=özet": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=İstanbul|nullcop=3s": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=şart": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|DerivedFrom=şıfrıntı": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 6
-    },
-    "SpaceAfter=No|SpacesAfter=\\r\\n": {
-        "UD_Turkish-BOUN": 3
-    },
-    "SpaceAfter=No|Stem=de": {
-        "UD_Turkish-GB": 1
-    },
-    "SpaceAfter=No|Stem=mu": {
-        "UD_Turkish-GB": 1
-    },
-    "SpaceAfter=No|ToDo=nmod": {
-        "UD_Turkish-PUD": 1
-    },
-    "SpaceAfter=No|mod=dyn": {
-        "UD_Turkish-BOUN": 11
-    },
-    "SpaceAfter=No|mod=epis": {
-        "UD_Turkish-BOUN": 6
-    },
-    "SpaceAfter=No|mod=epis|nullcop=3s": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|nullcop=3p": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|nullcop=3s": {
-        "UD_Turkish-BOUN": 24
-    },
-    "SpaceAfter=No|true=poğaça|typo=yes": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpaceAfter=No|typo=yes": {
-        "UD_Turkish-BOUN": 2
+        "UD_Turkish-PUD": 2179
     },
     "SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 9279
+        "UD_Turkish-BOUN": 9315
     },
     "SpacesAfter=\\n\\s": {
         "UD_Turkish-BOUN": 1
     },
-    "SpacesAfter=\\n|DerivedFrom=bulanık": {
-        "UD_Turkish-BOUN": 1
-    },
-    "SpacesAfter=\\n|nullcop=3s": {
-        "UD_Turkish-BOUN": 1
-    },
     "SpacesAfter=\\r\\n": {
-        "UD_Turkish-BOUN": 400
+        "UD_Turkish-BOUN": 406
     },
     "SpacesAfter=\\s\\s": {
         "UD_Turkish-BOUN": 7
@@ -6723,7 +5589,7 @@
         "UD_Turkish-GB": 1
     },
     "Stem=de": {
-        "UD_Turkish-GB": 1
+        "UD_Turkish-GB": 2
     },
     "Stem=dizge": {
         "UD_Turkish-GB": 1
@@ -6732,6 +5598,9 @@
         "UD_Turkish-GB": 1
     },
     "Stem=gör": {
+        "UD_Turkish-GB": 1
+    },
+    "Stem=mu": {
         "UD_Turkish-GB": 1
     },
     "Stem=mı": {
@@ -6750,13 +5619,13 @@
         "UD_Turkish-PUD": 1
     },
     "ToDo=ex-adp-child": {
-        "UD_Turkish-PUD": 19
+        "UD_Turkish-PUD": 20
     },
     "ToDo=ex-adp-child,pobj": {
         "UD_Turkish-PUD": 1
     },
     "ToDo=nmod": {
-        "UD_Turkish-PUD": 107
+        "UD_Turkish-PUD": 122
     },
     "ToDo=pcomp": {
         "UD_Turkish-PUD": 2
@@ -6770,18 +5639,7 @@
     "Vnoun": {
         "UD_Turkish-BOUN": 3
     },
-    "_": {
-        "UD_Turkish-Atis": 45875,
-        "UD_Turkish-BOUN": 93291,
-        "UD_Turkish-FrameNet": 19221,
-        "UD_Turkish-GB": 14826,
-        "UD_Turkish-IMST": 49620,
-        "UD_Turkish-Kenet": 178658,
-        "UD_Turkish-PUD": 13100,
-        "UD_Turkish-Penn": 183555,
-        "UD_Turkish-Tourism": 91469
-    },
-    "dSpaceAfter=No|nullcop=3s|SpaceAfter=No": {
+    "dSpaceAfter=No": {
         "UD_Turkish-BOUN": 1
     },
     "df=bağ": {
@@ -6794,85 +5652,40 @@
         "UD_Turkish-BOUN": 1
     },
     "mod=deon": {
-        "UD_Turkish-BOUN": 7
-    },
-    "mod=deon|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 5
+        "UD_Turkish-BOUN": 13
     },
     "mod=dyn": {
-        "UD_Turkish-BOUN": 49
-    },
-    "mod=dyn|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 30
-    },
-    "mod=dyn|nullcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 94
     },
     "mod=epis": {
-        "UD_Turkish-BOUN": 7
-    },
-    "mod=epis|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 10
+        "UD_Turkish-BOUN": 24
     },
     "mod=ver": {
         "UD_Turkish-BOUN": 1
     },
-    "nulcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "nulcop=3s|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+    "nulcop=3s": {
+        "UD_Turkish-BOUN": 2
     },
     "nullcop=3p": {
-        "UD_Turkish-BOUN": 1
-    },
-    "nullcop=3p|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 7
-    },
-    "nullcop=3p|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 1
+        "UD_Turkish-BOUN": 14
     },
     "nullcop=3s": {
-        "UD_Turkish-BOUN": 27
-    },
-    "nullcop=3s|DerivedFrom=düz|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 1
-    },
-    "nullcop=3s|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 98
-    },
-    "nullcop=3s|SpacesAfter=\\n": {
-        "UD_Turkish-BOUN": 7
+        "UD_Turkish-BOUN": 175
     },
     "orig_deprel=advcl": {
-        "UD_Turkish-PUD": 1
-    },
-    "orig_deprel=advcl|Proper=True|SpaceAfter=No": {
-        "UD_Turkish-PUD": 2
-    },
-    "orig_deprel=advmod": {
         "UD_Turkish-PUD": 3
     },
-    "orig_deprel=advmod|Proper=True": {
-        "UD_Turkish-PUD": 2
+    "orig_deprel=advmod": {
+        "UD_Turkish-PUD": 5
     },
     "orig_deprel=amod": {
         "UD_Turkish-PUD": 1
     },
     "orig_deprel=compound": {
-        "UD_Turkish-PUD": 2
-    },
-    "orig_deprel=compound|Proper=True": {
-        "UD_Turkish-PUD": 1
+        "UD_Turkish-PUD": 3
     },
     "orig_deprel=nsubj": {
-        "UD_Turkish-PUD": 4
-    },
-    "orig_deprel=nsubj|Proper=True": {
-        "UD_Turkish-PUD": 1
-    },
-    "orig_deprel=nsubj|SpaceAfter=No": {
-        "UD_Turkish-PUD": 1
+        "UD_Turkish-PUD": 6
     },
     "orig_deprel=nummod": {
         "UD_Turkish-PUD": 2
@@ -6883,73 +5696,79 @@
     "orig_deprel=root": {
         "UD_Turkish-PUD": 1
     },
-    "true='|typo=yes": {
+    "true='": {
         "UD_Turkish-BOUN": 1
     },
-    "true=Bir|typo=yes": {
+    "true=Bir": {
         "UD_Turkish-BOUN": 1
     },
-    "true=Etütler|typo=yes": {
+    "true=Etütler": {
         "UD_Turkish-BOUN": 1
     },
-    "true=RTÜK|typo=yes": {
+    "true=Mesudiyeli": {
         "UD_Turkish-BOUN": 1
     },
-    "true=Resme|typo=yes": {
+    "true=RTÜK": {
         "UD_Turkish-BOUN": 1
     },
-    "true=abi|typo=yes|SpaceAfter=No": {
+    "true=Resme": {
         "UD_Turkish-BOUN": 1
     },
-    "true=agresif|typo=yes": {
+    "true=Türkçeye": {
         "UD_Turkish-BOUN": 1
     },
-    "true=aslan|typo=yes": {
+    "true=abi": {
         "UD_Turkish-BOUN": 1
     },
-    "true=bir|typo=yes": {
+    "true=agresif": {
         "UD_Turkish-BOUN": 1
     },
-    "true=ekstazi|typo=yes": {
+    "true=aslan": {
         "UD_Turkish-BOUN": 1
     },
-    "true=gemilerinden|typo=yes": {
+    "true=bir": {
         "UD_Turkish-BOUN": 1
     },
-    "true=kızartın|typo=yes|SpaceAfter=No": {
+    "true=ekstazi": {
         "UD_Turkish-BOUN": 1
     },
-    "true=lütfu|typo=yes": {
+    "true=gemilerinden": {
         "UD_Turkish-BOUN": 1
     },
-    "true=malikânelerinde|typo=yes": {
+    "true=kızartın": {
         "UD_Turkish-BOUN": 1
     },
-    "true=müebbet|typo=yes": {
+    "true=lütfu": {
         "UD_Turkish-BOUN": 1
     },
-    "true=sorumluluğu|typo=yes": {
+    "true=malikânelerinde": {
         "UD_Turkish-BOUN": 1
     },
-    "true=tabii|typo=yes": {
+    "true=müebbet": {
         "UD_Turkish-BOUN": 1
     },
-    "true=taşınmamış|typo=yes": {
+    "true=poğaça": {
         "UD_Turkish-BOUN": 1
     },
-    "true=yaşıma|typo=yes": {
+    "true=sorumluluğu": {
+        "UD_Turkish-BOUN": 1
+    },
+    "true=tabii": {
+        "UD_Turkish-BOUN": 1
+    },
+    "true=taşınmamış": {
+        "UD_Turkish-BOUN": 1
+    },
+    "true=yaşıma": {
+        "UD_Turkish-BOUN": 1
+    },
+    "true=İtalyancalarına": {
         "UD_Turkish-BOUN": 1
     },
     "typo:yes": {
         "UD_Turkish-BOUN": 3
     },
     "typo=yes": {
-        "UD_Turkish-BOUN": 114
-    },
-    "typo=yes|DerivedFrom=çengel": {
-        "UD_Turkish-BOUN": 1
-    },
-    "typo=yes|SpaceAfter=No": {
-        "UD_Turkish-BOUN": 13
+        "UD_Turkish-BOUN": 155
     }
 }

@@ -1,17 +1,15 @@
 {
-    "_": 14826,
-    "SpaceAfter=No": 2705,
+    "SpaceAfter=No": 2707,
     "ModifiesHead=Yes": 5,
+    "Stem=de": 2,
     "Stem=suçluluk": 1,
     "Stem=mı": 1,
     "Stem=dizge": 1,
     "Stem=yapılaş": 1,
     "Stem=git": 1,
-    "SpaceAfter=No|Stem=de": 1,
     "Stem=.": 1,
     "Stem=gör": 1,
-    "Stem=de": 1,
     "Stem=bil": 1,
-    "SpaceAfter=No|Stem=mu": 1,
+    "Stem=mu": 1,
     "Stem=?": 1
 }
